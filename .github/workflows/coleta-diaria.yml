@@ -1,0 +1,51 @@
+name: Coleta diária de preços/estoque
+
+on:
+  schedule:
+    - cron: "30 10 * * *" # 07:30 America/Sao_Paulo
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Coletar loja
+        id: coleta
+        run: |
+          set +e
+          node src/collect.js
+          code=$?
+          set -e
+          if [ "$code" = "10" ]; then
+            echo "mudou=true" >> "$GITHUB_OUTPUT"
+          elif [ "$code" = "0" ]; then
+            echo "mudou=false" >> "$GITHUB_OUTPUT"
+          else
+            exit "$code"
+          fi
+
+      - name: Commit do estado e do doc
+        if: steps.coleta.outputs.mudou == 'true'
+        run: |
+          git config user.name "houzzes-bot"
+          git config user.email "houzzes.adm@gmail.com"
+          git add data saida
+          git commit -m "Coleta $(date -u +%F): mudanças detectadas"
+          git push
+
+      - name: Avisar no Houzbot
+        if: steps.coleta.outputs.mudou == 'true'
+        env:
+          HOUZBOT_API_URL: ${{ secrets.HOUZBOT_API_URL }}
+          HOUZBOT_TOKEN: ${{ secrets.HOUZBOT_TOKEN }}
+          HOUZBOT_DESTINO: ${{ secrets.HOUZBOT_DESTINO }}
+        run: node src/notify.js
