@@ -1,6 +1,6 @@
 {
-  "coletadoEm": "2026-07-18T03:02:11.853Z",
-  "total": 44,
+  "coletadoEm": "2026-07-20T19:27:00.029Z",
+  "total": 45,
   "produtos": [
     {
       "nome": "Azeiteiro chef Cerutti Inox, aço inoxidável 18/10",
@@ -273,6 +273,19 @@
       "precoCartao": 61870,
       "precoPix": 58776.5,
       "parcelamento": "até 12x de R$ 5.359,11",
+      "estoque": "45 dias úteis"
+    },
+    {
+      "nome": "Amassadeira Profissional a espiral IPBake ISP5 Micromix de 5 kg - 220v",
+      "codigo": "IPB_IT_00101005",
+      "marca": "IPBake",
+      "link": "https://loja.fmdobrasil.com.br/9kbn1v060-/amassadeira-profissional-a-espiral-ipbake-isp15-micromix-de-12-kg-220v",
+      "categoria": "AMASSADEIRA",
+      "sobConsulta": false,
+      "aPartirDe": false,
+      "precoCartao": 16750,
+      "precoPix": 15912.5,
+      "parcelamento": "até 12x de R$ 1.450,86",
       "estoque": "45 dias úteis"
     },
     {

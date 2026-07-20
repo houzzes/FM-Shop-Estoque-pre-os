@@ -1,3 +1,4 @@
-# Primeira coleta — 18/07/2026, 00:02:11
+# Mudanças detectadas — 20/07/2026, 16:27:00
 
-44 produtos registrados.
+- 🆕 Produto NOVO: Amassadeira Profissional a espiral IPBake ISP5 Micromix de 5 kg - 220v — R$ 16.750,00
+

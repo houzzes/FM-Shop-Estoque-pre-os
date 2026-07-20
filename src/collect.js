@@ -39,20 +39,25 @@ async function fetchTexto(url, tentativas = 3) {
   }
 }
 
-/** Sitemap → lista de URLs canônicas (sem os prefixos-hash duplicados). */
+/** Sitemap → lista de URLs, sem dedup por slug: a loja tem páginas de
+ * produtos DIFERENTES compartilhando o mesmo slug (URLs trocadas — ex.
+ * ISP5 × ISP15 em 20/07/2026, que fazia o dedup por slug engolir a ISP5).
+ * Duplicata real de produto é resolvida depois, por SKU (dedupePorCodigo). */
 function urlsDoSitemap(xml) {
   const locs = [...xml.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1].trim());
-  const porSlug = new Map();
-  for (const u of locs) {
-    const partes = new URL(u).pathname.split("/").filter(Boolean);
-    const slug = partes[partes.length - 1];
-    // Preferir a URL canônica (sem prefixo tipo /9kbn1v060-/), mas manter a
-    // URL ORIGINAL do sitemap — reconstruir o caminho na mão gera 404.
-    if (!porSlug.has(slug) || partes.length < porSlug.get(slug).profundidade) {
-      porSlug.set(slug, { url: u, profundidade: partes.length });
-    }
+  return [...new Set(locs)].sort();
+}
+
+/** Mesmo SKU em mais de uma URL = mesmo produto duplicado no sitemap;
+ * fica a URL mais curta (canônica, sem prefixo tipo /9kbn1v060-/). */
+function dedupePorCodigo(produtos) {
+  const prof = (p) => new URL(p.link).pathname.split("/").filter(Boolean).length;
+  const porCodigo = new Map();
+  for (const p of produtos) {
+    const atual = porCodigo.get(p.codigo);
+    if (!atual || prof(p) < prof(atual)) porCodigo.set(p.codigo, p);
   }
-  return [...porSlug.values()].map((v) => v.url).sort();
+  return [...porCodigo.values()];
 }
 
 function limpar(s) {
@@ -257,11 +262,12 @@ async function main() {
     process.exit(1);
   }
 
+  const unicos = dedupePorCodigo(produtos);
   const antes = carregarEstado();
   const agora = {
     coletadoEm: new Date().toISOString(),
-    total: produtos.length,
-    produtos: produtos.sort((a, b) => a.categoria.localeCompare(b.categoria) || a.nome.localeCompare(b.nome)),
+    total: unicos.length,
+    produtos: unicos.sort((a, b) => a.categoria.localeCompare(b.categoria) || a.nome.localeCompare(b.nome)),
   };
 
   const mudancas = diff(antes, agora);
