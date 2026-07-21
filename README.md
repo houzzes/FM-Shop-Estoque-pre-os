@@ -34,6 +34,8 @@ Secrets necessários (Settings → Secrets and variables → Actions):
 | `HOUZBOT_DESTINO` | WhatsApp de destino (55DDDNÚMERO) |
 
 Sem os secrets o job roda normalmente e só loga o resumo (não falha).
+(20/07/2026: secrets ainda não configurados — decisão: o aviso sai pelo
+Houzbot na plataforma nova do Atende Chat, aguardando a conta no ar.)
 
 ## Fase 2 (manual por decisão)
 
@@ -48,3 +50,6 @@ subir o novo. Automatizar só depois de confiar no dado.
 - Falha de extração é ruidosa por desenho: se o tema/HTML da loja mudar,
   o job falha avisando — nunca gera doc silenciosamente errado.
 - Trava de sanidade: preço Pix maior que cartão = erro de extração.
+- Dedup de produtos por **SKU**, nunca por slug: a loja tem slugs TROCADOS
+  nas amassadeiras (URL da ISP25 diz "isp5" e vice-versa) — dedup por slug
+  engolia a ISP5 (44 de 45 produtos). Corrigido em 20/07 (commit 8315a04).
