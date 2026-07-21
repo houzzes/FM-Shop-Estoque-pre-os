@@ -3,10 +3,21 @@ name: Coleta diária de preços/estoque
 on:
   schedule:
     - cron: "30 10 * * *" # 07:30 America/Sao_Paulo
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      julia_mode:
+        description: "Sincronizar doc na Julia (teste manual)"
+        type: choice
+        default: "off"
+        options: ["off", "dry-run", "full"]
 
 permissions:
   contents: write
+
+env:
+  # Sync automático da Julia nas rodadas AGENDADAS. Ligar (true) só
+  # depois do teste manual validado (dry-run → full → conferir painel).
+  JULIA_SYNC_AGENDADO: "false"
 
 jobs:
   coletar:
@@ -41,6 +52,31 @@ jobs:
           git add data saida
           git commit -m "Coleta $(date -u +%F): mudanças detectadas"
           git push
+
+      - name: Sincronizar doc na Julia
+        # Roda: (a) manualmente com julia_mode != off; ou (b) na rodada
+        # agendada com mudança, quando JULIA_SYNC_AGENDADO=true.
+        if: >-
+          (github.event_name == 'workflow_dispatch' && inputs.julia_mode != 'off') ||
+          (github.event_name == 'schedule' && steps.coleta.outputs.mudou == 'true' && env.JULIA_SYNC_AGENDADO == 'true')
+        env:
+          GPTMAKER_API_KEY: ${{ secrets.GPTMAKER_API_KEY }}
+          MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.julia_mode || 'full' }}
+        run: |
+          DOC_SHA=$(git rev-parse HEAD)
+          export DOC_URL="https://raw.githubusercontent.com/${{ github.repository }}/${DOC_SHA}/saida/produtos_fmd_atualizados.txt"
+          node src/update-julia.js
+
+      - name: Commit do log de sync da Julia
+        if: always()
+        run: |
+          if ! git diff --quiet saida/julia-sync-log.md 2>/dev/null || [ -n "$(git status --porcelain saida/julia-sync-log.md)" ]; then
+            git config user.name "houzzes-bot"
+            git config user.email "houzzes.adm@gmail.com"
+            git add saida/julia-sync-log.md
+            git commit -m "Julia sync: log de $(date -u +%F)"
+            git push
+          fi
 
       - name: Avisar no Houzbot
         if: steps.coleta.outputs.mudou == 'true'

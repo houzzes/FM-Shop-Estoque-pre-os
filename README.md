@@ -10,8 +10,8 @@ disponibilidade de cada item, compara com a coleta anterior e:
 - grava `saida/ultima-mudanca.md` com o resumo do diff;
 - avisa o Guilherme no WhatsApp via **Houzbot** quando algo muda.
 
-Contexto completo do projeto:
-`D:\Houzzes\Clientes\FM Shop\automacao-estoque-precos-plano.md`.
+(Contexto completo do projeto na documentação interna da Houzzes —
+ficha do cliente FM Shop.)
 
 ## Rodar local
 
@@ -29,19 +29,34 @@ Secrets necessários (Settings → Secrets and variables → Actions):
 
 | Secret | Conteúdo |
 |---|---|
+| `GPTMAKER_API_KEY` | chave da API oficial do GPT Maker (sync da Julia) |
 | `HOUZBOT_API_URL` | endpoint de envio da API do Chat Houzzes |
 | `HOUZBOT_TOKEN` | token da API |
 | `HOUZBOT_DESTINO` | WhatsApp de destino (55DDDNÚMERO) |
 
-Sem os secrets o job roda normalmente e só loga o resumo (não falha).
-(20/07/2026: secrets ainda não configurados — decisão: o aviso sai pelo
-Houzbot na plataforma nova do Atende Chat, aguardando a conta no ar.)
+Sem os secrets do Houzbot o job roda normalmente e só loga o resumo
+(não falha). (Aviso sairá pelo Houzbot na plataforma nova do Atende
+Chat, aguardando a conta no ar.)
 
-## Fase 2 (manual por decisão)
+## Sync automático do doc na Julia (`src/update-julia.js`)
 
-Quando chegar aviso de mudança: baixar `saida/produtos_fmd_atualizados.txt`,
-remover o documento antigo no treinamento da Julia (painel GPT Maker) e
-subir o novo. Automatizar só depois de confiar no dado.
+Quando a coleta detecta mudança, o workflow sincroniza o doc no
+treinamento da Julia pela API oficial (developer.gptmaker.ai):
+
+1. **Trava de identidade** — `GET /v2/agent/{id}` precisa retornar
+   `name: Julia`; caso contrário aborta sem alterar nada (a chave de
+   API é única da conta, a trava impede tocar outro agente).
+2. Cria o treinamento novo (`POST /v2/agent/{id}/trainings`, tipo
+   DOCUMENT, `documentUrl` = raw do GitHub pinado no SHA do commit).
+3. Espera o novo aparecer na listagem (+60s de folga de treino).
+4. Só então exclui os antigos de mesmo `documentName`
+   (`DELETE /v2/training/{id}`). Falha em qualquer passo = job
+   vermelho e doc antigo preservado (a Julia nunca fica sem doc).
+
+Auditoria permanente: cada sync escreve em `saida/julia-sync-log.md`
+(commitado). Teste manual: Actions → Run workflow → `julia_mode`
+(`dry-run` ou `full`). O sync nas rodadas agendadas é controlado por
+`JULIA_SYNC_AGENDADO` no workflow (ligar só após teste validado).
 
 ## Notas técnicas
 
