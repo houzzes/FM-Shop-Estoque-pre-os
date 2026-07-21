@@ -15,9 +15,9 @@ permissions:
   contents: write
 
 env:
-  # Sync automático da Julia nas rodadas AGENDADAS. Ligar (true) só
-  # depois do teste manual validado (dry-run → full → conferir painel).
-  JULIA_SYNC_AGENDADO: "false"
+  # Sync automático da Julia nas rodadas AGENDADAS. Validado em
+  # 21/07/2026 (runs #6 dry-run e #7 full — ver saida/julia-sync-log.md).
+  JULIA_SYNC_AGENDADO: "true"
 
 jobs:
   coletar:
