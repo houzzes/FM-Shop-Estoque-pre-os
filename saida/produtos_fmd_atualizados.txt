@@ -1,7 +1,7 @@
 PRODUTOS DO E-COMMERCE FM DO BRASIL - PREÇOS ATUALIZADOS
 ==========================================================
 Site: https://loja.fmdobrasil.com.br/
-Data de atualização: 20/07/2026
+Data de atualização: 21/07/2026
 
 ⚠️ IMPORTANTE: Esta listagem contém os PREÇOS ATUALIZADOS coletados diretamente do site.
 Gerada automaticamente pelo monitor de preços da Houzzes.
@@ -171,7 +171,7 @@ CATEGORIA: AMASSADEIRA
 21. PRODUTO: Amassadeira Profissional a espiral IPBake ISP25 Plus de 25 kg - 220v
    CÓDIGO: IPB_IT_00101025
    MARCA: IPBake
-   LINK: https://loja.fmdobrasil.com.br/dpq9dubn9-/amassadeira-profissional-a-espiral-ipbake-isp5-micromix-de-5-kg-220v
+   LINK: https://loja.fmdobrasil.com.br/dpq9dubn9-/amassadeira-profissional-a-espiral-ipbake-isp25-micromix-de-25-kg-220v
    PREÇO ATUAL: R$ 61.870,00 (ou R$ 58.776,50 via Pix)
    PARCELAMENTO: até 12x de R$ 5.359,11
    ESTOQUE: 45 dias úteis
@@ -179,7 +179,7 @@ CATEGORIA: AMASSADEIRA
 22. PRODUTO: Amassadeira Profissional a espiral IPBake ISP5 Micromix de 5 kg - 220v
    CÓDIGO: IPB_IT_00101005
    MARCA: IPBake
-   LINK: https://loja.fmdobrasil.com.br/9kbn1v060-/amassadeira-profissional-a-espiral-ipbake-isp15-micromix-de-12-kg-220v
+   LINK: https://loja.fmdobrasil.com.br/9kbn1v060-/amassadeira-profissional-a-espiral-ipbake-isp5-micromix-de-5-kg-220v
    PREÇO ATUAL: R$ 16.750,00 (ou R$ 15.912,50 via Pix)
    PARCELAMENTO: até 12x de R$ 1.450,86
    ESTOQUE: 45 dias úteis
@@ -332,8 +332,9 @@ CATEGORIA: PÁS DE PIZZA
    CÓDIGO: CI_796
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-perfurada-smart-quadrada
-   PREÇO: SOB CONSULTA (falar com o comercial)
-   ESTOQUE: Indisponível
+   PREÇO ATUAL: A partir de R$ 296,00 (ou a partir de R$ 281,20 via Pix)
+   PARCELAMENTO: até 12x de R$ 25,63
+   ESTOQUE: Disponível
 
 41. PRODUTO: Pá Cerutti Inox TULIP 60° quadrada perfurada cabo cinza
    CÓDIGO: CI_762F

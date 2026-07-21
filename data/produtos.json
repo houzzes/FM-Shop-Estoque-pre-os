@@ -1,5 +1,5 @@
 {
-  "coletadoEm": "2026-07-20T19:27:00.029Z",
+  "coletadoEm": "2026-07-21T13:37:20.410Z",
   "total": 45,
   "produtos": [
     {
@@ -266,7 +266,7 @@
       "nome": "Amassadeira Profissional a espiral IPBake ISP25 Plus de 25 kg - 220v",
       "codigo": "IPB_IT_00101025",
       "marca": "IPBake",
-      "link": "https://loja.fmdobrasil.com.br/dpq9dubn9-/amassadeira-profissional-a-espiral-ipbake-isp5-micromix-de-5-kg-220v",
+      "link": "https://loja.fmdobrasil.com.br/dpq9dubn9-/amassadeira-profissional-a-espiral-ipbake-isp25-micromix-de-25-kg-220v",
       "categoria": "AMASSADEIRA",
       "sobConsulta": false,
       "aPartirDe": false,
@@ -279,7 +279,7 @@
       "nome": "Amassadeira Profissional a espiral IPBake ISP5 Micromix de 5 kg - 220v",
       "codigo": "IPB_IT_00101005",
       "marca": "IPBake",
-      "link": "https://loja.fmdobrasil.com.br/9kbn1v060-/amassadeira-profissional-a-espiral-ipbake-isp15-micromix-de-12-kg-220v",
+      "link": "https://loja.fmdobrasil.com.br/9kbn1v060-/amassadeira-profissional-a-espiral-ipbake-isp5-micromix-de-5-kg-220v",
       "categoria": "AMASSADEIRA",
       "sobConsulta": false,
       "aPartirDe": false,
@@ -516,11 +516,11 @@
       "link": "https://loja.fmdobrasil.com.br/pa-cerutti-inox-perfurada-smart-quadrada",
       "categoria": "PÁS DE PIZZA",
       "sobConsulta": false,
-      "aPartirDe": false,
-      "precoCartao": null,
-      "precoPix": null,
-      "parcelamento": null,
-      "estoque": "Indisponível"
+      "aPartirDe": true,
+      "precoCartao": 296,
+      "precoPix": 281.2,
+      "parcelamento": "até 12x de R$ 25,63",
+      "estoque": "Disponível"
     },
     {
       "nome": "Pá Cerutti Inox TULIP 60° quadrada perfurada cabo cinza",

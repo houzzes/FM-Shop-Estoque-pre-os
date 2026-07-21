@@ -27,11 +27,18 @@ function brl(n) {
 }
 
 async function fetchTexto(url, tentativas = 3) {
+  return (await fetchPagina(url, tentativas)).texto;
+}
+
+/** Como fetchTexto, mas devolve também a URL FINAL (pós-redirect 301):
+ * a loja redireciona URLs antigas quando um slug é corrigido, e o
+ * sitemap demora a acompanhar — o link do produto deve ser o canônico. */
+async function fetchPagina(url, tentativas = 3) {
   for (let i = 1; i <= tentativas; i++) {
     try {
       const r = await fetch(url, { headers: { "User-Agent": UA } });
       if (!r.ok) throw new Error(`HTTP ${r.status}`);
-      return await r.text();
+      return { texto: await r.text(), urlFinal: r.url || url };
     } catch (e) {
       if (i === tentativas) throw new Error(`${url}: ${e.message}`);
       await new Promise((res) => setTimeout(res, 2000 * i));
@@ -241,8 +248,8 @@ async function main() {
   const erros = [];
   for (const url of urls) {
     try {
-      const html = await fetchTexto(url);
-      produtos.push(extrair(html, url));
+      const { texto: html, urlFinal } = await fetchPagina(url);
+      produtos.push(extrair(html, urlFinal));
       process.stdout.write(".");
     } catch (e) {
       erros.push(e.message);
