@@ -54,9 +54,10 @@ treinamento da Julia pela API oficial (developer.gptmaker.ai):
    vermelho e doc antigo preservado (a Julia nunca fica sem doc).
 
 Auditoria permanente: cada sync escreve em `saida/julia-sync-log.md`
-(commitado). Teste manual: Actions → Run workflow → `julia_mode`
+(commitado). Execução manual: Actions → Run workflow → `julia_mode`
 (`dry-run` ou `full`). O sync nas rodadas agendadas é controlado por
-`JULIA_SYNC_AGENDADO` no workflow (ligar só após teste validado).
+`JULIA_SYNC_AGENDADO` no workflow — **LIGADO desde 21/07/2026**
+(validação: runs #6 dry-run e #7 full; ver o log de sync).
 
 ## Notas técnicas
 
