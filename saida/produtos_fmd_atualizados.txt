@@ -1,7 +1,7 @@
 PRODUTOS DO E-COMMERCE FM DO BRASIL - PREÇOS ATUALIZADOS
 ==========================================================
 Site: https://loja.fmdobrasil.com.br/
-Data de atualização: 21/07/2026
+Data de atualização: 23/07/2026
 
 ⚠️ IMPORTANTE: Esta listagem contém os PREÇOS ATUALIZADOS coletados diretamente do site.
 Gerada automaticamente pelo monitor de preços da Houzzes.
@@ -19,7 +19,14 @@ CATEGORIA: ACESSÓRIOS
    PARCELAMENTO: até 12x de R$ 57,25
    ESTOQUE: Disponível
 
-2. PRODUTO: Capa de proteção para forno de pizza Witt Piccolo Rotante
+2. PRODUTO: Cabo em inox Cerutti Inox para fôrmas e telha - Pinça
+   CÓDIGO: CI_2778
+   MARCA: Cerutti Inox
+   LINK: https://loja.fmdobrasil.com.br/cabo-em-inox-cerutti-inox-para-formas-e-telha-pinca
+   PREÇO: SOB CONSULTA (falar com o comercial)
+   ESTOQUE: Indisponível
+
+3. PRODUTO: Capa de proteção para forno de pizza Witt Piccolo Rotante
    CÓDIGO: WITT_48651052
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/f5nb8bp0w-capa-de-protecao-para-forno-de-pizza-witt-etna-rotante-novo-modelo
@@ -27,14 +34,14 @@ CATEGORIA: ACESSÓRIOS
    PARCELAMENTO: até 12x de R$ 42,87
    ESTOQUE: Disponível
 
-3. PRODUTO: Colher de pizzaiolo Cerutti Inox
+4. PRODUTO: Colher de pizzaiolo Cerutti Inox
    CÓDIGO: CI_997
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/colher-de-pizzaiolo-cerutti-inox
    PREÇO: SOB CONSULTA (falar com o comercial)
    ESTOQUE: Indisponível
 
-4. PRODUTO: Cortador de pizza Cerutti Inox com cabo plástico ergonômico vermelho, lâmina de 1 mm
+5. PRODUTO: Cortador de pizza Cerutti Inox com cabo plástico ergonômico vermelho, lâmina de 1 mm
    CÓDIGO: CI_2773
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/cortador-de-pizza-cerutti-inox-com-cabo-plastico-ergonomico-vermelho-lamina-de-1-mm
@@ -42,28 +49,28 @@ CATEGORIA: ACESSÓRIOS
    PARCELAMENTO: até 12x de R$ 10,30
    ESTOQUE: Disponível
 
-5. PRODUTO: Escova Cerutti Inox baixa retangular para fornos compactos H5, L16 com cabo de alumínio anodizado 60 cm
+6. PRODUTO: Escova Cerutti Inox baixa retangular para fornos compactos H5, L16 com cabo de alumínio anodizado 60 cm
    CÓDIGO: CI_AL-SC2790-18D
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/escova-cerutti-inox-baixa-retangular-para-forno-eletrico-h5-l16-com-cabo-de-aluminio-anodizado-60-cm
    PREÇO: SOB CONSULTA (falar com o comercial)
    ESTOQUE: Indisponível
 
-6. PRODUTO: Escova Cerutti Inox retangular com cerdas de latão de 18 cm e cabo de aço inoxidável de 60 cm
+7. PRODUTO: Escova Cerutti Inox retangular com cerdas de latão de 18 cm e cabo de aço inoxidável de 60 cm
    CÓDIGO: CI_2764-18D
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/spazzola-rettangolare-18-cm-setole-in-ottone-con-manico-in-alluminio-anodizzato-rosso-150-cm-e-raschiatore
    PREÇO: SOB CONSULTA (falar com o comercial)
    ESTOQUE: Indisponível
 
-7. PRODUTO: Escova Cerutti Inox retangular de 22,5 cm de cerdas de latão com cabo de alum. anodizado vermelho de 150 cm e raspador
+8. PRODUTO: Escova Cerutti Inox retangular de 22,5 cm de cerdas de latão com cabo de alum. anodizado vermelho de 150 cm e raspador
    CÓDIGO: CI_AL-RA2764-22
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/escova-cerutti-inox-retangular-de-225-cm-de-cerdas-de-latao-com-cabo-de-alum-anodizado-vermelho-de-150-cm-e-raspador
    PREÇO: SOB CONSULTA (falar com o comercial)
    ESTOQUE: Indisponível
 
-8. PRODUTO: Espátula Cerutti Inox de aço inoxidável com cabo de plástico vermelho
+9. PRODUTO: Espátula Cerutti Inox de aço inoxidável com cabo de plástico vermelho
    CÓDIGO: CI_2771
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/espatula-cerutti-inox-de-aco-inoxidavel-com-cabo-de-plastico-vermelho
@@ -71,7 +78,7 @@ CATEGORIA: ACESSÓRIOS
    PARCELAMENTO: até 12x de R$ 17,15
    ESTOQUE: Disponível
 
-9. PRODUTO: Espátula em PE Massa Pizza 21x10 GENUS DEI - MADE IN ITALY
+10. PRODUTO: Espátula em PE Massa Pizza 21x10 GENUS DEI - MADE IN ITALY
    CÓDIGO: GDEI-100111
    MARCA: GENUS DEI
    LINK: https://loja.fmdobrasil.com.br/espatula-em-pe-massa-pizza-21x10-genus-dei-made-in-italy
@@ -79,7 +86,7 @@ CATEGORIA: ACESSÓRIOS
    PARCELAMENTO: até 12x de R$ 4,76
    ESTOQUE: Disponível
 
-10. PRODUTO: Espátula raspadora de massa de pizza Witt
+11. PRODUTO: Espátula raspadora de massa de pizza Witt
    CÓDIGO: WITT_48651004
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/espatula-raspadora-de-massa-de-pizza-witt
@@ -87,7 +94,7 @@ CATEGORIA: ACESSÓRIOS
    PARCELAMENTO: até 12x de R$ 9,96
    ESTOQUE: Disponível
 
-11. PRODUTO: Expositor de pás de pizza
+12. PRODUTO: Expositor de pás de pizza
    CÓDIGO: CI_800
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/expositor-de-pas-de-pizza
@@ -95,7 +102,13 @@ CATEGORIA: ACESSÓRIOS
    PARCELAMENTO: até 12x de R$ 717,46
    ESTOQUE: Disponível
 
-12. PRODUTO: nomadiQ Bolsa de Proteção
+13. PRODUTO: Gancho em inox Cerutti Inox para fura-pizza e pega fôrmas/telha/assadeiras
+   CÓDIGO: CI_2777
+   LINK: https://loja.fmdobrasil.com.br/gancho-em-inox-cerutti-inox-para-fura-pizza-e-pega-formastelhaassadeiras
+   PREÇO: SOB CONSULTA (falar com o comercial)
+   ESTOQUE: Indisponível
+
+14. PRODUTO: nomadiQ Bolsa de Proteção
    CÓDIGO: NQ_PPBBQBLK01
    MARCA: NomadiQ
    LINK: https://loja.fmdobrasil.com.br/nomadiq-cooling-bag-exw
@@ -103,7 +116,7 @@ CATEGORIA: ACESSÓRIOS
    PARCELAMENTO: até 12x de R$ 14,29
    ESTOQUE: Disponível
 
-13. PRODUTO: NomadiQ Chapa em aço
+15. PRODUTO: NomadiQ Chapa em aço
    CÓDIGO: NQ_GRID01
    MARCA: NomadiQ
    LINK: https://loja.fmdobrasil.com.br/nomadiq-chapa-em-aco
@@ -111,7 +124,7 @@ CATEGORIA: ACESSÓRIOS
    PARCELAMENTO: até 12x de R$ 31,87
    ESTOQUE: Disponível
 
-14. PRODUTO: NomadiQ Chapa para Panquecas em Aço
+16. PRODUTO: NomadiQ Chapa para Panquecas em Aço
    CÓDIGO: NQ_GRID02
    MARCA: NomadiQ
    LINK: https://loja.fmdobrasil.com.br/nomadiq-chapa-para-panquecas-em-aco
@@ -119,7 +132,7 @@ CATEGORIA: ACESSÓRIOS
    PARCELAMENTO: até 12x de R$ 31,87
    ESTOQUE: Disponível
 
-15. PRODUTO: NomadiQ Kit de limpeza
+17. PRODUTO: NomadiQ Kit de limpeza
    CÓDIGO: NQ_CK01
    MARCA: NomadiQ
    LINK: https://loja.fmdobrasil.com.br/nomadiq-kit-de-limpeza
@@ -127,14 +140,14 @@ CATEGORIA: ACESSÓRIOS
    PARCELAMENTO: até 12x de R$ 11,43
    ESTOQUE: Disponível
 
-16. PRODUTO: Porta-pá Cerutti Inox com base em arco, h 183 cm
+18. PRODUTO: Porta-pá Cerutti Inox com base em arco, h 183 cm
    CÓDIGO: CI_2830-183
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/porta-pa-cerutti-inox-com-base-em-arco-h-183-cm
    PREÇO: SOB CONSULTA (falar com o comercial)
    ESTOQUE: Indisponível
 
-17. PRODUTO: Raspador Cerutti Inox de aço inoxidável com cabo de plástico vermelho 12,5 x 10 cm
+19. PRODUTO: Raspador Cerutti Inox de aço inoxidável com cabo de plástico vermelho 12,5 x 10 cm
    CÓDIGO: CI_2769-10
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/raspador-cerutti-inox-de-aco-inoxidavel-com-cabo-de-plastico-vermelho-125-x-10-cm
@@ -142,7 +155,7 @@ CATEGORIA: ACESSÓRIOS
    PARCELAMENTO: até 12x de R$ 15,15
    ESTOQUE: Disponível
 
-18. PRODUTO: Termometro Infravermelho Witt Alta Precisão
+20. PRODUTO: Termometro Infravermelho Witt Alta Precisão
    CÓDIGO: WITT_48651012
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/termometro-infravermelho-witt-alta-precisao
@@ -150,7 +163,7 @@ CATEGORIA: ACESSÓRIOS
    PARCELAMENTO: até 12x de R$ 38,28
    ESTOQUE: Disponível
 
-19. PRODUTO: Tesoura Cerutti Inox para cortar pizza
+21. PRODUTO: Tesoura Cerutti Inox para cortar pizza
    CÓDIGO: CI_2775
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/tesoura-cerutti-inox-para-cortar-pizza
@@ -160,7 +173,7 @@ CATEGORIA: ACESSÓRIOS
 CATEGORIA: AMASSADEIRA
 ======================
 
-20. PRODUTO: Amassadeira Profissional a espiral IPBake ISP15 Micromix de 12 kg - 220v
+22. PRODUTO: Amassadeira Profissional a espiral IPBake ISP15 Micromix de 12 kg - 220v
    CÓDIGO: IPB_IT_00101015
    MARCA: IPBake
    LINK: https://loja.fmdobrasil.com.br/amassadeira-profissional-a-espiral-ipbake-isp15-micromix-de-12-kg-220v
@@ -168,7 +181,7 @@ CATEGORIA: AMASSADEIRA
    PARCELAMENTO: até 12x de R$ 2.705,11
    ESTOQUE: 45 dias úteis
 
-21. PRODUTO: Amassadeira Profissional a espiral IPBake ISP25 Plus de 25 kg - 220v
+23. PRODUTO: Amassadeira Profissional a espiral IPBake ISP25 Plus de 25 kg - 220v
    CÓDIGO: IPB_IT_00101025
    MARCA: IPBake
    LINK: https://loja.fmdobrasil.com.br/dpq9dubn9-/amassadeira-profissional-a-espiral-ipbake-isp25-micromix-de-25-kg-220v
@@ -176,7 +189,7 @@ CATEGORIA: AMASSADEIRA
    PARCELAMENTO: até 12x de R$ 5.359,11
    ESTOQUE: 45 dias úteis
 
-22. PRODUTO: Amassadeira Profissional a espiral IPBake ISP5 Micromix de 5 kg - 220v
+24. PRODUTO: Amassadeira Profissional a espiral IPBake ISP5 Micromix de 5 kg - 220v
    CÓDIGO: IPB_IT_00101005
    MARCA: IPBake
    LINK: https://loja.fmdobrasil.com.br/9kbn1v060-/amassadeira-profissional-a-espiral-ipbake-isp5-micromix-de-5-kg-220v
@@ -187,7 +200,7 @@ CATEGORIA: AMASSADEIRA
 CATEGORIA: CAIXA DE FERMENTAÇÃO
 ===============================
 
-23. PRODUTO: Caixa em PE de Fermentação Massa Pizza Empilhavel GENUS DEI
+25. PRODUTO: Caixa em PE de Fermentação Massa Pizza Empilhavel GENUS DEI
    CÓDIGO: GDEI-VASxxx
    MARCA: GENUS DEI
    LINK: https://loja.fmdobrasil.com.br/bandeja-em-pe-de-fermentacao-massa-pizza-empilhavel-genus-dei
@@ -195,14 +208,14 @@ CATEGORIA: CAIXA DE FERMENTAÇÃO
    PARCELAMENTO: até 12x de R$ 8,92
    ESTOQUE: Disponível
 
-24. PRODUTO: Carro de Transporte de Caixas para Massas de Pizza GENUS DEI
+26. PRODUTO: Carro de Transporte de Caixas para Massas de Pizza GENUS DEI
    CÓDIGO: GDEI-CA6040
    MARCA: GENUS DEI
    LINK: https://loja.fmdobrasil.com.br/carro-de-transporte-de-bandejas-para-massas-de-pizza-genus-dei-cinza-made-in-italy
    PREÇO: SOB CONSULTA (falar com o comercial)
    ESTOQUE: Indisponível
 
-25. PRODUTO: Tampa em PE para Caixa de Fermentação Massa Pizza GENUS DEI
+27. PRODUTO: Tampa em PE para Caixa de Fermentação Massa Pizza GENUS DEI
    CÓDIGO: GDEI-COPxxxx
    MARCA: GENUS DEI
    LINK: https://loja.fmdobrasil.com.br/tampa-em-pe-para-caixa-de-fermentacao-massa-pizza-genus-dei
@@ -213,7 +226,7 @@ CATEGORIA: CAIXA DE FERMENTAÇÃO
 CATEGORIA: CHURRASQUEIRAS
 =========================
 
-26. PRODUTO: NomadiQ Churrasqueira Elétrica Portátil - Zement - 220V
+28. PRODUTO: NomadiQ Churrasqueira Elétrica Portátil - Zement - 220V
    CÓDIGO: NQ_EBBQZEM01
    MARCA: NomadiQ
    LINK: https://loja.fmdobrasil.com.br/nomadiq-churrasqueira-eletrica-portatil-zement-220v
@@ -221,7 +234,7 @@ CATEGORIA: CHURRASQUEIRAS
    PARCELAMENTO: até 12x de R$ 194,80
    ESTOQUE: Disponível
 
-27. PRODUTO: NomadiQ Churrasqueira Portátil a Gás - Preto - Conexão de válvula Lindal EN417
+29. PRODUTO: NomadiQ Churrasqueira Portátil a Gás - Preto - Conexão de válvula Lindal EN417
    CÓDIGO: NQ_GBBQBLK01
    MARCA: NomadiQ
    LINK: https://loja.fmdobrasil.com.br/nomadiq-churrasqueira-portatil-a-gas-preto-conexao-de-valvula-lindal-en417
@@ -229,7 +242,7 @@ CATEGORIA: CHURRASQUEIRAS
    PARCELAMENTO: até 12x de R$ 194,80
    ESTOQUE: Disponível
 
-28. PRODUTO: NomadiQ Fogão Portátil - Preto - Conexão válvula Lindal EN417
+30. PRODUTO: NomadiQ Fogão Portátil - Preto - Conexão válvula Lindal EN417
    CÓDIGO: NQ_GSTOBLK01
    MARCA: NomadiQ
    LINK: https://loja.fmdobrasil.com.br/nomadiq-fogao-portatil-preto-conexao-valvula-lindal-en417
@@ -240,7 +253,7 @@ CATEGORIA: CHURRASQUEIRAS
 CATEGORIA: FORNOS
 =================
 
-29. PRODUTO: Capa de proteção para forno de pizza Witt Etna Rotante
+31. PRODUTO: Capa de proteção para forno de pizza Witt Etna Rotante
    CÓDIGO: WITT_48651030
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/capa-de-protecao-para-forno-de-pizza-witt-etna-rotante-novo-modelo
@@ -248,28 +261,28 @@ CATEGORIA: FORNOS
    PARCELAMENTO: até 12x de R$ 43,22
    ESTOQUE: Disponível
 
-30. PRODUTO: Forno para pizza Macte Nettuno
+32. PRODUTO: Forno para pizza Macte Nettuno
    CÓDIGO: MCT_FORNO-Nx
    MARCA: Macte Ovens
    LINK: https://loja.fmdobrasil.com.br/forno-para-pizza-macte-nettuno
    PREÇO: SOB CONSULTA (falar com o comercial)
    ESTOQUE: Indisponível
 
-31. PRODUTO: Forno para pizza macte smart
+33. PRODUTO: Forno para pizza macte smart
    CÓDIGO: MCT_FORNO-Sx
    MARCA: Macte Ovens
    LINK: https://loja.fmdobrasil.com.br/forno-para-pizza-macte-smart
    PREÇO: SOB CONSULTA (falar com o comercial)
    ESTOQUE: Indisponível
 
-32. PRODUTO: Forno para pizza Macte Twin
+34. PRODUTO: Forno para pizza Macte Twin
    CÓDIGO: MCT_FORNO-Tx
    MARCA: Macte Ovens
    LINK: https://loja.fmdobrasil.com.br/forno-para-pizza-macte-twin
    PREÇO: SOB CONSULTA (falar com o comercial)
    ESTOQUE: Indisponível
 
-33. PRODUTO: Forno para pizza Witt Etna Fermo
+35. PRODUTO: Forno para pizza Witt Etna Fermo
    CÓDIGO: WITT_8065003
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/ug6kxn687-forno-para-pizza-witt-etna-rotante
@@ -277,7 +290,7 @@ CATEGORIA: FORNOS
    PARCELAMENTO: até 12x de R$ 554,27
    ESTOQUE: Disponível
 
-34. PRODUTO: Forno para pizza Witt Etna Rotante
+36. PRODUTO: Forno para pizza Witt Etna Rotante
    CÓDIGO: WITT_8065001
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/forno-para-pizza-witt-etna-rotante
@@ -285,7 +298,7 @@ CATEGORIA: FORNOS
    PARCELAMENTO: até 12x de R$ 711,31
    ESTOQUE: Disponível
 
-35. PRODUTO: Forno para pizza Witt Etna Rotante Control 16&quot;
+37. PRODUTO: Forno para pizza Witt Etna Rotante Control 16&quot;
    CÓDIGO: WITT_1000003
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/yhu3bozqw-forno-para-pizza-witt-etna-rotante
@@ -293,7 +306,7 @@ CATEGORIA: FORNOS
    PARCELAMENTO: até 12x de R$ 952,72
    ESTOQUE: Disponível
 
-36. PRODUTO: Forno para pizza Witt Piccolo Rotante
+38. PRODUTO: Forno para pizza Witt Piccolo Rotante
    CÓDIGO: WITT_8065018
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/forno-para-pizza-witt-piccolo-rotante
@@ -304,7 +317,7 @@ CATEGORIA: FORNOS
 CATEGORIA: PÁS DE PIZZA
 =======================
 
-37. PRODUTO: Pá Cerutti Inox (10) em alumínio anodizado quadrado perfurado dourado cabo marrom
+39. PRODUTO: Pá Cerutti Inox (10) em alumínio anodizado quadrado perfurado dourado cabo marrom
    CÓDIGO: CI_DM792F
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-10-em-aluminio-anodizado-quadrado-perfurado-dourado-cabo-marrom
@@ -312,7 +325,15 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 93,20
    ESTOQUE: Disponível
 
-38. PRODUTO: Pá Cerutti Inox de girar pizza 730 perfurada cabo deslizante vermelho
+40. PRODUTO: Pá Cerutti Inox (10) em alumínio anodizado redonda perfurada dourada Ø 36 cm cabo marrom 120 cm
+   CÓDIGO: CI_DM790FR
+   MARCA: Cerutti Inox
+   LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-10-em-aluminio-anodizado-redonda-perfurada-dourada-36-cm-cabo-marrom-120-cm
+   PREÇO ATUAL: A partir de R$ 1.000,00 (ou a partir de R$ 950,00 via Pix)
+   PARCELAMENTO: até 12x de R$ 86,61
+   ESTOQUE: Disponível
+
+41. PRODUTO: Pá Cerutti Inox de girar pizza 730 perfurada cabo deslizante vermelho
    CÓDIGO: CI_730
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-de-girar-pizza-730-perfurada-cabo-deslizante-vermelho
@@ -320,7 +341,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 29,79
    ESTOQUE: Disponível
 
-39. PRODUTO: Pá Cerutti Inox de girar pizza 742 perfurada reforçada cabo deslizante cinza
+42. PRODUTO: Pá Cerutti Inox de girar pizza 742 perfurada reforçada cabo deslizante cinza
    CÓDIGO: CI_742FG
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-de-girar-pizza-742-perfurada-reforcada-cabo-deslizante-cinza
@@ -328,7 +349,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 60,37
    ESTOQUE: Disponível
 
-40. PRODUTO: Pá Cerutti Inox perfurada SMART quadrada
+43. PRODUTO: Pá Cerutti Inox perfurada SMART quadrada
    CÓDIGO: CI_796
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-perfurada-smart-quadrada
@@ -336,7 +357,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 25,63
    ESTOQUE: Disponível
 
-41. PRODUTO: Pá Cerutti Inox TULIP 60° quadrada perfurada cabo cinza
+44. PRODUTO: Pá Cerutti Inox TULIP 60° quadrada perfurada cabo cinza
    CÓDIGO: CI_762F
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-tulip-60-quadrada-perfurada-cabo-cinza
@@ -344,7 +365,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 50,15
    ESTOQUE: Disponível
 
-42. PRODUTO: Pá Cerutti Inox TULIP quadrada perfurada cabo vermelho
+45. PRODUTO: Pá Cerutti Inox TULIP quadrada perfurada cabo vermelho
    CÓDIGO: CI_752F
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-tulip-quadrada-perfurada-cabo-vermelho
@@ -352,7 +373,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 66,61
    ESTOQUE: Disponível
 
-43. PRODUTO: Pá Cerutti Inox TULIP retangular perfurada cabo vermelho
+46. PRODUTO: Pá Cerutti Inox TULIP retangular perfurada cabo vermelho
    CÓDIGO: CI_754F
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-tulip-retangular-perfurada-cabo-vermelho
@@ -360,7 +381,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 133,13
    ESTOQUE: Disponível
 
-44. PRODUTO: Pá Perfurada de Giro Witt em Aluminio para Pizza
+47. PRODUTO: Pá Perfurada de Giro Witt em Aluminio para Pizza
    CÓDIGO: WITT_4865x
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/pa-perfurada-de-giro-witt-em-aluminio-para-pizza-2025-07-22-17-40-08
@@ -368,7 +389,14 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 33,19
    ESTOQUE: Disponível
 
-45. PRODUTO: Telha retangular de chapa metálica azul com paredes retas 60x20/40x2 cm
+48. PRODUTO: Telha retangular de chapa metálica azul 40X30X3cm
+   CÓDIGO: CI_76060xxxxx-B5T7K6UX4
+   MARCA: Cerutti Inox
+   LINK: https://loja.fmdobrasil.com.br/b5t7k6ux4-telha-retangular-de-chapa-metalica-azul-com-paredes-retas-30x40x3-cm
+   PREÇO: SOB CONSULTA (falar com o comercial)
+   ESTOQUE: Indisponível
+
+49. PRODUTO: Telha retangular de chapa metálica azul com paredes retas 60x20/40x2 cm
    CÓDIGO: CI_76060xxxxx
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/telha-retangular-de-chapa-metalica-azul-com-paredes-retas-60x2040x2-cm

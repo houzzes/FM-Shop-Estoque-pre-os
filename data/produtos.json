@@ -1,6 +1,6 @@
 {
-  "coletadoEm": "2026-07-21T13:37:20.410Z",
-  "total": 45,
+  "coletadoEm": "2026-07-23T12:09:07.602Z",
+  "total": 49,
   "produtos": [
     {
       "nome": "Azeiteiro chef Cerutti Inox, aço inoxidável 18/10",
@@ -14,6 +14,19 @@
       "precoPix": 627.95,
       "parcelamento": "até 12x de R$ 57,25",
       "estoque": "Disponível"
+    },
+    {
+      "nome": "Cabo em inox Cerutti Inox para fôrmas e telha - Pinça",
+      "codigo": "CI_2778",
+      "marca": "Cerutti Inox",
+      "link": "https://loja.fmdobrasil.com.br/cabo-em-inox-cerutti-inox-para-formas-e-telha-pinca",
+      "categoria": "ACESSÓRIOS",
+      "sobConsulta": false,
+      "aPartirDe": false,
+      "precoCartao": null,
+      "precoPix": null,
+      "parcelamento": null,
+      "estoque": "Indisponível"
     },
     {
       "nome": "Capa de proteção para forno de pizza Witt Piccolo Rotante",
@@ -144,6 +157,19 @@
       "precoPix": 7868.85,
       "parcelamento": "até 12x de R$ 717,46",
       "estoque": "Disponível"
+    },
+    {
+      "nome": "Gancho em inox Cerutti Inox para fura-pizza e pega fôrmas/telha/assadeiras",
+      "codigo": "CI_2777",
+      "marca": null,
+      "link": "https://loja.fmdobrasil.com.br/gancho-em-inox-cerutti-inox-para-fura-pizza-e-pega-formastelhaassadeiras",
+      "categoria": "ACESSÓRIOS",
+      "sobConsulta": false,
+      "aPartirDe": false,
+      "precoCartao": null,
+      "precoPix": null,
+      "parcelamento": null,
+      "estoque": "Indisponível"
     },
     {
       "nome": "nomadiQ Bolsa de Proteção",
@@ -484,6 +510,19 @@
       "estoque": "Disponível"
     },
     {
+      "nome": "Pá Cerutti Inox (10) em alumínio anodizado redonda perfurada dourada Ø 36 cm cabo marrom 120 cm",
+      "codigo": "CI_DM790FR",
+      "marca": "Cerutti Inox",
+      "link": "https://loja.fmdobrasil.com.br/pa-cerutti-inox-10-em-aluminio-anodizado-redonda-perfurada-dourada-36-cm-cabo-marrom-120-cm",
+      "categoria": "PÁS DE PIZZA",
+      "sobConsulta": false,
+      "aPartirDe": true,
+      "precoCartao": 1000,
+      "precoPix": 950,
+      "parcelamento": "até 12x de R$ 86,61",
+      "estoque": "Disponível"
+    },
+    {
       "nome": "Pá Cerutti Inox de girar pizza 730 perfurada cabo deslizante vermelho",
       "codigo": "CI_730",
       "marca": "Cerutti Inox",
@@ -573,6 +612,19 @@
       "precoPix": 364.04,
       "parcelamento": "até 12x de R$ 33,19",
       "estoque": "Disponível"
+    },
+    {
+      "nome": "Telha retangular de chapa metálica azul 40X30X3cm",
+      "codigo": "CI_76060xxxxx-B5T7K6UX4",
+      "marca": "Cerutti Inox",
+      "link": "https://loja.fmdobrasil.com.br/b5t7k6ux4-telha-retangular-de-chapa-metalica-azul-com-paredes-retas-30x40x3-cm",
+      "categoria": "PÁS DE PIZZA",
+      "sobConsulta": false,
+      "aPartirDe": false,
+      "precoCartao": null,
+      "precoPix": null,
+      "parcelamento": null,
+      "estoque": "Indisponível"
     },
     {
       "nome": "Telha retangular de chapa metálica azul com paredes retas 60x20/40x2 cm",
