@@ -81,3 +81,97 @@
 - Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
 - Estado final OK: 7 treinamento(s) gerenciado(s).
 
+## 28/07/2026, 12:53:34 — MODE=full — SUCESSO
+
+- Agente 3E22C85CD272807E9D886A87BAFD9D52: name="Julia"
+- Coleta: 49 produtos.
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Treinamentos de texto na Julia: 42 (gerenciados: 7, intocáveis: 35).
+- Plano: criar 42, atualizar 0, excluir 0, sem mudança 7, duplicados a limpar 0.
+-   + CRIAR  CI_900xx — Azeiteiro chef Cerutti Inox, aço inoxidável 18/10
+-   + CRIAR  CI_2778 — Cabo em inox Cerutti Inox para fôrmas e telha - Pinça
+-   + CRIAR  WITT_48651052 — Capa de proteção para forno de pizza Witt Piccolo Rotante
+-   + CRIAR  CI_997 — Colher de pizzaiolo Cerutti Inox
+-   + CRIAR  CI_2773 — Cortador de pizza Cerutti Inox com cabo plástico ergonômico vermelho, lâmina de 1 mm
+-   + CRIAR  CI_AL-SC2790-18D — Escova Cerutti Inox baixa retangular para fornos compactos H5, L16 com cabo de alumínio anodizado 60 cm
+-   + CRIAR  CI_2764-18D — Escova Cerutti Inox retangular com cerdas de latão de 18 cm e cabo de aço inoxidável de 60 cm
+-   + CRIAR  CI_AL-RA2764-22 — Escova Cerutti Inox retangular de 22,5 cm de cerdas de latão com cabo de alum. anodizado vermelho de 150 cm e raspador
+-   + CRIAR  CI_2771 — Espátula Cerutti Inox de aço inoxidável com cabo de plástico vermelho
+-   + CRIAR  GDEI-100111 — Espátula em PE Massa Pizza 21x10 GENUS DEI - MADE IN ITALY
+-   + CRIAR  WITT_48651004 — Espátula raspadora de massa de pizza Witt
+-   + CRIAR  CI_800 — Expositor de pás de pizza
+-   + CRIAR  CI_2777 — Gancho em inox Cerutti Inox para fura-pizza e pega fôrmas/telha/assadeiras
+-   + CRIAR  NQ_PPBBQBLK01 — nomadiQ Bolsa de Proteção
+-   + CRIAR  NQ_GRID01 — NomadiQ Chapa em aço
+-   + CRIAR  NQ_GRID02 — NomadiQ Chapa para Panquecas em Aço
+-   + CRIAR  NQ_CK01 — NomadiQ Kit de limpeza
+-   + CRIAR  CI_2830-183 — Porta-pá Cerutti Inox com base em arco, h 183 cm
+-   + CRIAR  CI_2769-10 — Raspador Cerutti Inox de aço inoxidável com cabo de plástico vermelho 12,5 x 10 cm
+-   + CRIAR  WITT_48651012 — Termometro Infravermelho Witt Alta Precisão
+-   + CRIAR  CI_2775 — Tesoura Cerutti Inox para cortar pizza
+-   + CRIAR  IPB_IT_00101015 — Amassadeira Profissional a espiral IPBake ISP15 Micromix de 12 kg - 220v
+-   + CRIAR  IPB_IT_00101025 — Amassadeira Profissional a espiral IPBake ISP25 Plus de 25 kg - 220v
+-   + CRIAR  IPB_IT_00101005 — Amassadeira Profissional a espiral IPBake ISP5 Micromix de 5 kg - 220v
+-   + CRIAR  GDEI-VASxxx — Caixa em PE de Fermentação Massa Pizza Empilhavel GENUS DEI
+-   + CRIAR  GDEI-CA6040 — Carro de Transporte de Caixas para Massas de Pizza GENUS DEI
+-   + CRIAR  GDEI-COPxxxx — Tampa em PE para Caixa de Fermentação Massa Pizza GENUS DEI
+-   + CRIAR  NQ_EBBQZEM01 — NomadiQ Churrasqueira Elétrica Portátil - Zement - 220V
+-   + CRIAR  NQ_GBBQBLK01 — NomadiQ Churrasqueira Portátil a Gás - Preto - Conexão de válvula Lindal EN417
+-   + CRIAR  NQ_GSTOBLK01 — NomadiQ Fogão Portátil - Preto - Conexão válvula Lindal EN417
+-   + CRIAR  WITT_48651030 — Capa de proteção para forno de pizza Witt Etna Rotante
+-   + CRIAR  CI_DM792F — Pá Cerutti Inox (10) em alumínio anodizado quadrado perfurado dourado cabo marrom
+-   + CRIAR  CI_DM790FR — Pá Cerutti Inox (10) em alumínio anodizado redonda perfurada dourada Ø 36 cm cabo marrom 120 cm
+-   + CRIAR  CI_730 — Pá Cerutti Inox de girar pizza 730 perfurada cabo deslizante vermelho
+-   + CRIAR  CI_742FG — Pá Cerutti Inox de girar pizza 742 perfurada reforçada cabo deslizante cinza
+-   + CRIAR  CI_796 — Pá Cerutti Inox perfurada SMART quadrada
+-   + CRIAR  CI_762F — Pá Cerutti Inox TULIP 60° quadrada perfurada cabo cinza
+-   + CRIAR  CI_752F — Pá Cerutti Inox TULIP quadrada perfurada cabo vermelho
+-   + CRIAR  CI_754F — Pá Cerutti Inox TULIP retangular perfurada cabo vermelho
+-   + CRIAR  WITT_4865x — Pá Perfurada de Giro Witt em Aluminio para Pizza
+-   + CRIAR  CI_76060xxxxx-B5T7K6UX4 — Telha retangular de chapa metálica azul 40X30X3cm
+-   + CRIAR  CI_76060xxxxx — Telha retangular de chapa metálica azul com paredes retas 60x20/40x2 cm
+- CRIADO CI_900xx
+- CRIADO CI_2778
+- CRIADO WITT_48651052
+- CRIADO CI_997
+- CRIADO CI_2773
+- CRIADO CI_AL-SC2790-18D
+- CRIADO CI_2764-18D
+- CRIADO CI_AL-RA2764-22
+- CRIADO CI_2771
+- CRIADO GDEI-100111
+- CRIADO WITT_48651004
+- CRIADO CI_800
+- CRIADO CI_2777
+- CRIADO NQ_PPBBQBLK01
+- CRIADO NQ_GRID01
+- CRIADO NQ_GRID02
+- CRIADO NQ_CK01
+- CRIADO CI_2830-183
+- CRIADO CI_2769-10
+- CRIADO WITT_48651012
+- CRIADO CI_2775
+- CRIADO IPB_IT_00101015
+- CRIADO IPB_IT_00101025
+- CRIADO IPB_IT_00101005
+- CRIADO GDEI-VASxxx
+- CRIADO GDEI-CA6040
+- CRIADO GDEI-COPxxxx
+- CRIADO NQ_EBBQZEM01
+- CRIADO NQ_GBBQBLK01
+- CRIADO NQ_GSTOBLK01
+- CRIADO WITT_48651030
+- CRIADO CI_DM792F
+- CRIADO CI_DM790FR
+- CRIADO CI_730
+- CRIADO CI_742FG
+- CRIADO CI_796
+- CRIADO CI_762F
+- CRIADO CI_752F
+- CRIADO CI_754F
+- CRIADO WITT_4865x
+- CRIADO CI_76060xxxxx-B5T7K6UX4
+- CRIADO CI_76060xxxxx
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Estado final OK: 49 treinamento(s) gerenciado(s).
+
