@@ -10,6 +10,15 @@ on:
         type: choice
         default: "off"
         options: ["off", "dry-run", "full"]
+      texto_mode:
+        description: "Sync de preços por TEXTO na Julia (1 treinamento/produto)"
+        type: choice
+        default: "off"
+        options: ["off", "dry-run", "full"]
+      texto_filtro:
+        description: "Regex de escopo do sync por texto (vazio = todos; Fase B: ^Forno para pizza)"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -18,6 +27,10 @@ env:
   # Sync automático da Julia nas rodadas AGENDADAS. Validado em
   # 21/07/2026 (runs #6 dry-run e #7 full — ver saida/julia-sync-log.md).
   JULIA_SYNC_AGENDADO: "true"
+  # Sync de preços por TEXTO nas rodadas agendadas. Fica DESLIGADO até a
+  # Fase C do plano (Clientes/FM Shop/plano-precos-em-treinamento-texto.md
+  # na pasta Houzzes) ser validada; ligar mudando para "true".
+  TEXTO_SYNC_AGENDADO: "false"
 
 jobs:
   coletar:
@@ -67,13 +80,26 @@ jobs:
           export DOC_URL="https://raw.githubusercontent.com/${{ github.repository }}/${DOC_SHA}/saida/produtos_fmd_atualizados.txt"
           node src/update-julia.js
 
-      - name: Commit do log de sync da Julia
+      - name: Sincronizar preços por TEXTO na Julia
+        # Um treinamento TEXT por produto (plano de 28/07/2026). Roda:
+        # (a) manualmente com texto_mode != off; ou (b) na rodada agendada
+        # com mudança, quando TEXTO_SYNC_AGENDADO=true (Fase C+).
+        if: >-
+          (github.event_name == 'workflow_dispatch' && inputs.texto_mode != 'off') ||
+          (github.event_name == 'schedule' && steps.coleta.outputs.mudou == 'true' && env.TEXTO_SYNC_AGENDADO == 'true')
+        env:
+          GPTMAKER_API_KEY: ${{ secrets.GPTMAKER_API_KEY }}
+          MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.texto_mode || 'full' }}
+          FILTRO: ${{ github.event_name == 'workflow_dispatch' && inputs.texto_filtro || '' }}
+        run: node src/sync-precos-texto.js
+
+      - name: Commit dos logs de sync da Julia
         if: always()
         run: |
-          if ! git diff --quiet saida/julia-sync-log.md 2>/dev/null || [ -n "$(git status --porcelain saida/julia-sync-log.md)" ]; then
+          if [ -n "$(git status --porcelain saida/julia-sync-log.md saida/julia-sync-precos-log.md)" ]; then
             git config user.name "houzzes-bot"
             git config user.email "houzzes.adm@gmail.com"
-            git add saida/julia-sync-log.md
+            git add saida/julia-sync-log.md saida/julia-sync-precos-log.md
             git commit -m "Julia sync: log de $(date -u +%F)"
             git push
           fi
