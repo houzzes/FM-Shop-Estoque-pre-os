@@ -56,3 +56,28 @@
 -   + CRIAR  CI_76060xxxxx — Telha retangular de chapa metálica azul com paredes retas 60x20/40x2 cm
 - DRY-RUN: nada foi alterado.
 
+## 28/07/2026, 12:44:15 — MODE=full — FILTRO=^Forno para pizza — SUCESSO
+
+- Agente 3E22C85CD272807E9D886A87BAFD9D52: name="Julia"
+- FILTRO="^Forno para pizza" → 7 de 49 produtos no escopo.
+- Coleta: 49 produtos; escopo desta execução: 7.
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Treinamentos de texto na Julia: 35 (gerenciados: 0, intocáveis: 35).
+- Plano: criar 7, atualizar 0, excluir 0, sem mudança 0, duplicados a limpar 0.
+-   + CRIAR  MCT_FORNO-Nx — Forno para pizza Macte Nettuno
+-   + CRIAR  MCT_FORNO-Sx — Forno para pizza macte smart
+-   + CRIAR  MCT_FORNO-Tx — Forno para pizza Macte Twin
+-   + CRIAR  WITT_8065003 — Forno para pizza Witt Etna Fermo
+-   + CRIAR  WITT_8065001 — Forno para pizza Witt Etna Rotante
+-   + CRIAR  WITT_1000003 — Forno para pizza Witt Etna Rotante Control 16&quot;
+-   + CRIAR  WITT_8065018 — Forno para pizza Witt Piccolo Rotante
+- CRIADO MCT_FORNO-Nx
+- CRIADO MCT_FORNO-Sx
+- CRIADO MCT_FORNO-Tx
+- CRIADO WITT_8065003
+- CRIADO WITT_8065001
+- CRIADO WITT_1000003
+- CRIADO WITT_8065018
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Estado final OK: 7 treinamento(s) gerenciado(s).
+
