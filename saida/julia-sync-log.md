@@ -25,3 +25,13 @@
 - Excluído doc antigo: 3F674567FAB7E123D23B46B4FE2CF900
 - Estado final: 1 doc(s) [3F68BD3C8D6B60FC45901E59A40D78E5]
 
+## 28/07/2026, 12:38:05 — MODE=full — SUCESSO
+
+- Agente 3E22C85CD272807E9D886A87BAFD9D52: name="Julia" jobName="FM Shop"
+- Docs "produtos_fmd_atualizados.txt" existentes: 1 [3F68BD3C8D6B60FC45901E59A40D78E5]
+- DOC_URL ok (16263 bytes, 49 produtos)
+- Treinamento novo criado (POST ok). Aguardando aparecer na listagem…
+- Novo treinamento na listagem: 3F6CC81425C550B62AF1FE769DA94E7B. Folga de 60s para o treino concluir…
+- Excluído doc antigo: 3F68BD3C8D6B60FC45901E59A40D78E5
+- Estado final: 1 doc(s) [3F6CC81425C550B62AF1FE769DA94E7B]
+
