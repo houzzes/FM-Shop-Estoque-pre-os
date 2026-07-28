@@ -24,13 +24,14 @@ permissions:
   contents: write
 
 env:
-  # Sync automático da Julia nas rodadas AGENDADAS. Validado em
-  # 21/07/2026 (runs #6 dry-run e #7 full — ver saida/julia-sync-log.md).
-  JULIA_SYNC_AGENDADO: "true"
-  # Sync de preços por TEXTO nas rodadas agendadas. Fica DESLIGADO até a
-  # Fase C do plano (Clientes/FM Shop/plano-precos-em-treinamento-texto.md
-  # na pasta Houzzes) ser validada; ligar mudando para "true".
-  TEXTO_SYNC_AGENDADO: "false"
+  # Sync do DOCUMENTO único: DESATIVADO em 28/07/2026 (Fase D do plano de
+  # preços por texto). O treinamento DOCUMENT foi removido da Julia; o
+  # coletor segue gerando o .txt (backup/diff versionado), mas ele não
+  # sobe mais. Religar só com decisão explícita.
+  JULIA_SYNC_AGENDADO: "false"
+  # Sync de preços por TEXTO (1 treinamento/produto): LIGADO em 28/07/2026
+  # após validação das Fases A-C (ver saida/julia-sync-precos-log.md).
+  TEXTO_SYNC_AGENDADO: "true"
 
 jobs:
   coletar:
