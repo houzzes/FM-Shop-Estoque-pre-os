@@ -175,3 +175,17 @@
 - Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
 - Estado final OK: 49 treinamento(s) gerenciado(s).
 
+## 30/07/2026, 09:50:09 — MODE=full — SUCESSO
+
+- Agente 3E22C85CD272807E9D886A87BAFD9D52: name="Julia"
+- Coleta: 49 produtos.
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Treinamentos de texto na Julia: 85 (gerenciados: 49, intocáveis: 36).
+- Plano: criar 0, atualizar 2, excluir 0, sem mudança 47, duplicados a limpar 0.
+-   ~ ATUALIZAR WITT_8065003 — Forno para pizza Witt Etna Fermo
+-   ~ ATUALIZAR WITT_1000003 — Forno para pizza Witt Etna Rotante Control 16&quot;
+- ATUALIZADO WITT_8065003 (3F6CC919526D7043275F626007930DB9)
+- ATUALIZADO WITT_1000003 (3F6CC91AD5D920C273E8DAE3A0090D82)
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Estado final OK: 49 treinamento(s) gerenciado(s).
+
