@@ -189,3 +189,19 @@
 - Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
 - Estado final OK: 49 treinamento(s) gerenciado(s).
 
+## 13/08/2026, 08:14:58 — MODE=full — SUCESSO
+
+- Agente 3E22C85CD272807E9D886A87BAFD9D52: name="Julia"
+- Coleta: 46 produtos.
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Treinamentos de texto na Julia: 85 (gerenciados: 49, intocáveis: 36).
+- Plano: criar 0, atualizar 0, excluir 3, sem mudança 46, duplicados a limpar 0.
+-   - EXCLUIR MCT_FORNO-Tx (sumiu da loja)
+-   - EXCLUIR MCT_FORNO-Sx (sumiu da loja)
+-   - EXCLUIR MCT_FORNO-Nx (sumiu da loja)
+- EXCLUÍDO MCT_FORNO-Tx (3F6CC9188C5E5072B6EE12E5503299A3)
+- EXCLUÍDO MCT_FORNO-Sx (3F6CC9181F44A05214283E80B06F59D3)
+- EXCLUÍDO MCT_FORNO-Nx (3F6CC9174C64407BFA8786583354AF26)
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Estado final OK: 46 treinamento(s) gerenciado(s).
+
