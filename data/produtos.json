@@ -1,6 +1,6 @@
 {
-  "coletadoEm": "2026-07-23T12:09:07.602Z",
-  "total": 49,
+  "coletadoEm": "2026-08-13T11:14:53.300Z",
+  "total": 46,
   "produtos": [
     {
       "nome": "Azeiteiro chef Cerutti Inox, aço inoxidável 18/10",
@@ -406,49 +406,10 @@
       "estoque": "Disponível"
     },
     {
-      "nome": "Forno para pizza Macte Nettuno",
-      "codigo": "MCT_FORNO-Nx",
-      "marca": "Macte Ovens",
-      "link": "https://loja.fmdobrasil.com.br/forno-para-pizza-macte-nettuno",
-      "categoria": "FORNOS",
-      "sobConsulta": false,
-      "aPartirDe": false,
-      "precoCartao": null,
-      "precoPix": null,
-      "parcelamento": null,
-      "estoque": "Indisponível"
-    },
-    {
-      "nome": "Forno para pizza macte smart",
-      "codigo": "MCT_FORNO-Sx",
-      "marca": "Macte Ovens",
-      "link": "https://loja.fmdobrasil.com.br/forno-para-pizza-macte-smart",
-      "categoria": "FORNOS",
-      "sobConsulta": false,
-      "aPartirDe": false,
-      "precoCartao": null,
-      "precoPix": null,
-      "parcelamento": null,
-      "estoque": "Indisponível"
-    },
-    {
-      "nome": "Forno para pizza Macte Twin",
-      "codigo": "MCT_FORNO-Tx",
-      "marca": "Macte Ovens",
-      "link": "https://loja.fmdobrasil.com.br/forno-para-pizza-macte-twin",
-      "categoria": "FORNOS",
-      "sobConsulta": false,
-      "aPartirDe": false,
-      "precoCartao": null,
-      "precoPix": null,
-      "parcelamento": null,
-      "estoque": "Indisponível"
-    },
-    {
       "nome": "Forno para pizza Witt Etna Fermo",
       "codigo": "WITT_8065003",
       "marca": "WITT",
-      "link": "https://loja.fmdobrasil.com.br/ug6kxn687-forno-para-pizza-witt-etna-rotante",
+      "link": "https://loja.fmdobrasil.com.br/ug6kxn687-forno-para-pizza-witt-etna-fermo",
       "categoria": "FORNOS",
       "sobConsulta": false,
       "aPartirDe": false,
@@ -474,7 +435,7 @@
       "nome": "Forno para pizza Witt Etna Rotante Control 16&quot;",
       "codigo": "WITT_1000003",
       "marca": "WITT",
-      "link": "https://loja.fmdobrasil.com.br/yhu3bozqw-forno-para-pizza-witt-etna-rotante",
+      "link": "https://loja.fmdobrasil.com.br/yhu3bozqw-forno-para-pizza-witt-etna-rotante-control",
       "categoria": "FORNOS",
       "sobConsulta": false,
       "aPartirDe": false,

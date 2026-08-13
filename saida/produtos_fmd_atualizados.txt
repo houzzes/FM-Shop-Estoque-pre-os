@@ -1,7 +1,7 @@
 PRODUTOS DO E-COMMERCE FM DO BRASIL - PREÇOS ATUALIZADOS
 ==========================================================
 Site: https://loja.fmdobrasil.com.br/
-Data de atualização: 23/07/2026
+Data de atualização: 13/08/2026
 
 ⚠️ IMPORTANTE: Esta listagem contém os PREÇOS ATUALIZADOS coletados diretamente do site.
 Gerada automaticamente pelo monitor de preços da Houzzes.
@@ -261,36 +261,15 @@ CATEGORIA: FORNOS
    PARCELAMENTO: até 12x de R$ 43,22
    ESTOQUE: Disponível
 
-32. PRODUTO: Forno para pizza Macte Nettuno
-   CÓDIGO: MCT_FORNO-Nx
-   MARCA: Macte Ovens
-   LINK: https://loja.fmdobrasil.com.br/forno-para-pizza-macte-nettuno
-   PREÇO: SOB CONSULTA (falar com o comercial)
-   ESTOQUE: Indisponível
-
-33. PRODUTO: Forno para pizza macte smart
-   CÓDIGO: MCT_FORNO-Sx
-   MARCA: Macte Ovens
-   LINK: https://loja.fmdobrasil.com.br/forno-para-pizza-macte-smart
-   PREÇO: SOB CONSULTA (falar com o comercial)
-   ESTOQUE: Indisponível
-
-34. PRODUTO: Forno para pizza Macte Twin
-   CÓDIGO: MCT_FORNO-Tx
-   MARCA: Macte Ovens
-   LINK: https://loja.fmdobrasil.com.br/forno-para-pizza-macte-twin
-   PREÇO: SOB CONSULTA (falar com o comercial)
-   ESTOQUE: Indisponível
-
-35. PRODUTO: Forno para pizza Witt Etna Fermo
+32. PRODUTO: Forno para pizza Witt Etna Fermo
    CÓDIGO: WITT_8065003
    MARCA: WITT
-   LINK: https://loja.fmdobrasil.com.br/ug6kxn687-forno-para-pizza-witt-etna-rotante
+   LINK: https://loja.fmdobrasil.com.br/ug6kxn687-forno-para-pizza-witt-etna-fermo
    PREÇO ATUAL: R$ 6.399,00 (ou R$ 6.079,05 via Pix)
    PARCELAMENTO: até 12x de R$ 554,27
    ESTOQUE: Disponível
 
-36. PRODUTO: Forno para pizza Witt Etna Rotante
+33. PRODUTO: Forno para pizza Witt Etna Rotante
    CÓDIGO: WITT_8065001
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/forno-para-pizza-witt-etna-rotante
@@ -298,15 +277,15 @@ CATEGORIA: FORNOS
    PARCELAMENTO: até 12x de R$ 711,31
    ESTOQUE: Disponível
 
-37. PRODUTO: Forno para pizza Witt Etna Rotante Control 16&quot;
+34. PRODUTO: Forno para pizza Witt Etna Rotante Control 16&quot;
    CÓDIGO: WITT_1000003
    MARCA: WITT
-   LINK: https://loja.fmdobrasil.com.br/yhu3bozqw-forno-para-pizza-witt-etna-rotante
+   LINK: https://loja.fmdobrasil.com.br/yhu3bozqw-forno-para-pizza-witt-etna-rotante-control
    PREÇO ATUAL: R$ 10.999,00 (ou R$ 10.449,05 via Pix)
    PARCELAMENTO: até 12x de R$ 952,72
    ESTOQUE: Disponível
 
-38. PRODUTO: Forno para pizza Witt Piccolo Rotante
+35. PRODUTO: Forno para pizza Witt Piccolo Rotante
    CÓDIGO: WITT_8065018
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/forno-para-pizza-witt-piccolo-rotante
@@ -317,7 +296,7 @@ CATEGORIA: FORNOS
 CATEGORIA: PÁS DE PIZZA
 =======================
 
-39. PRODUTO: Pá Cerutti Inox (10) em alumínio anodizado quadrado perfurado dourado cabo marrom
+36. PRODUTO: Pá Cerutti Inox (10) em alumínio anodizado quadrado perfurado dourado cabo marrom
    CÓDIGO: CI_DM792F
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-10-em-aluminio-anodizado-quadrado-perfurado-dourado-cabo-marrom
@@ -325,7 +304,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 93,20
    ESTOQUE: Disponível
 
-40. PRODUTO: Pá Cerutti Inox (10) em alumínio anodizado redonda perfurada dourada Ø 36 cm cabo marrom 120 cm
+37. PRODUTO: Pá Cerutti Inox (10) em alumínio anodizado redonda perfurada dourada Ø 36 cm cabo marrom 120 cm
    CÓDIGO: CI_DM790FR
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-10-em-aluminio-anodizado-redonda-perfurada-dourada-36-cm-cabo-marrom-120-cm
@@ -333,7 +312,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 86,61
    ESTOQUE: Disponível
 
-41. PRODUTO: Pá Cerutti Inox de girar pizza 730 perfurada cabo deslizante vermelho
+38. PRODUTO: Pá Cerutti Inox de girar pizza 730 perfurada cabo deslizante vermelho
    CÓDIGO: CI_730
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-de-girar-pizza-730-perfurada-cabo-deslizante-vermelho
@@ -341,7 +320,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 29,79
    ESTOQUE: Disponível
 
-42. PRODUTO: Pá Cerutti Inox de girar pizza 742 perfurada reforçada cabo deslizante cinza
+39. PRODUTO: Pá Cerutti Inox de girar pizza 742 perfurada reforçada cabo deslizante cinza
    CÓDIGO: CI_742FG
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-de-girar-pizza-742-perfurada-reforcada-cabo-deslizante-cinza
@@ -349,7 +328,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 60,37
    ESTOQUE: Disponível
 
-43. PRODUTO: Pá Cerutti Inox perfurada SMART quadrada
+40. PRODUTO: Pá Cerutti Inox perfurada SMART quadrada
    CÓDIGO: CI_796
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-perfurada-smart-quadrada
@@ -357,7 +336,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 25,63
    ESTOQUE: Disponível
 
-44. PRODUTO: Pá Cerutti Inox TULIP 60° quadrada perfurada cabo cinza
+41. PRODUTO: Pá Cerutti Inox TULIP 60° quadrada perfurada cabo cinza
    CÓDIGO: CI_762F
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-tulip-60-quadrada-perfurada-cabo-cinza
@@ -365,7 +344,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 50,15
    ESTOQUE: Disponível
 
-45. PRODUTO: Pá Cerutti Inox TULIP quadrada perfurada cabo vermelho
+42. PRODUTO: Pá Cerutti Inox TULIP quadrada perfurada cabo vermelho
    CÓDIGO: CI_752F
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-tulip-quadrada-perfurada-cabo-vermelho
@@ -373,7 +352,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 66,61
    ESTOQUE: Disponível
 
-46. PRODUTO: Pá Cerutti Inox TULIP retangular perfurada cabo vermelho
+43. PRODUTO: Pá Cerutti Inox TULIP retangular perfurada cabo vermelho
    CÓDIGO: CI_754F
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-tulip-retangular-perfurada-cabo-vermelho
@@ -381,7 +360,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 133,13
    ESTOQUE: Disponível
 
-47. PRODUTO: Pá Perfurada de Giro Witt em Aluminio para Pizza
+44. PRODUTO: Pá Perfurada de Giro Witt em Aluminio para Pizza
    CÓDIGO: WITT_4865x
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/pa-perfurada-de-giro-witt-em-aluminio-para-pizza-2025-07-22-17-40-08
@@ -389,14 +368,14 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 33,19
    ESTOQUE: Disponível
 
-48. PRODUTO: Telha retangular de chapa metálica azul 40X30X3cm
+45. PRODUTO: Telha retangular de chapa metálica azul 40X30X3cm
    CÓDIGO: CI_76060xxxxx-B5T7K6UX4
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/b5t7k6ux4-telha-retangular-de-chapa-metalica-azul-com-paredes-retas-30x40x3-cm
    PREÇO: SOB CONSULTA (falar com o comercial)
    ESTOQUE: Indisponível
 
-49. PRODUTO: Telha retangular de chapa metálica azul com paredes retas 60x20/40x2 cm
+46. PRODUTO: Telha retangular de chapa metálica azul com paredes retas 60x20/40x2 cm
    CÓDIGO: CI_76060xxxxx
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/telha-retangular-de-chapa-metalica-azul-com-paredes-retas-60x2040x2-cm
