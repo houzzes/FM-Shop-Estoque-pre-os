@@ -1,7 +1,7 @@
 PRODUTOS DO E-COMMERCE FM DO BRASIL - PREÇOS ATUALIZADOS
 ==========================================================
 Site: https://loja.fmdobrasil.com.br/
-Data de atualização: 13/08/2026
+Data de atualização: 21/08/2026
 
 ⚠️ IMPORTANTE: Esta listagem contém os PREÇOS ATUALIZADOS coletados diretamente do site.
 Gerada automaticamente pelo monitor de preços da Houzzes.
@@ -324,9 +324,8 @@ CATEGORIA: PÁS DE PIZZA
    CÓDIGO: CI_742FG
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-de-girar-pizza-742-perfurada-reforcada-cabo-deslizante-cinza
-   PREÇO ATUAL: A partir de R$ 697,00 (ou a partir de R$ 662,15 via Pix)
-   PARCELAMENTO: até 12x de R$ 60,37
-   ESTOQUE: Disponível
+   PREÇO: SOB CONSULTA (falar com o comercial)
+   ESTOQUE: Indisponível
 
 40. PRODUTO: Pá Cerutti Inox perfurada SMART quadrada
    CÓDIGO: CI_796

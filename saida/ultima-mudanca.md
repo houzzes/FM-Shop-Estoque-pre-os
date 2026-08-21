@@ -1,6 +1,4 @@
-# Mudanças detectadas — 13/08/2026, 08:14:53
+# Mudanças detectadas — 21/08/2026, 07:55:46
 
-- ❌ Produto REMOVIDO do site: Forno para pizza Macte Nettuno
-- ❌ Produto REMOVIDO do site: Forno para pizza macte smart
-- ❌ Produto REMOVIDO do site: Forno para pizza Macte Twin
+- 📦 Pá Cerutti Inox de girar pizza 742 perfurada reforçada cabo deslizante cinza: estoque Disponível → Indisponível
 

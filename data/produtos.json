@@ -1,5 +1,5 @@
 {
-  "coletadoEm": "2026-08-13T11:14:53.300Z",
+  "coletadoEm": "2026-08-21T10:55:46.273Z",
   "total": 46,
   "produtos": [
     {
@@ -503,11 +503,11 @@
       "link": "https://loja.fmdobrasil.com.br/pa-cerutti-inox-de-girar-pizza-742-perfurada-reforcada-cabo-deslizante-cinza",
       "categoria": "PÁS DE PIZZA",
       "sobConsulta": false,
-      "aPartirDe": true,
-      "precoCartao": 697,
-      "precoPix": 662.15,
-      "parcelamento": "até 12x de R$ 60,37",
-      "estoque": "Disponível"
+      "aPartirDe": false,
+      "precoCartao": null,
+      "precoPix": null,
+      "parcelamento": null,
+      "estoque": "Indisponível"
     },
     {
       "nome": "Pá Cerutti Inox perfurada SMART quadrada",
