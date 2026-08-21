@@ -205,3 +205,15 @@
 - Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
 - Estado final OK: 46 treinamento(s) gerenciado(s).
 
+## 21/08/2026, 07:55:50 — MODE=full — SUCESSO
+
+- Agente 3E22C85CD272807E9D886A87BAFD9D52: name="Julia"
+- Coleta: 46 produtos.
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Treinamentos de texto na Julia: 81 (gerenciados: 46, intocáveis: 35).
+- Plano: criar 0, atualizar 1, excluir 0, sem mudança 45, duplicados a limpar 0.
+-   ~ ATUALIZAR CI_742FG — Pá Cerutti Inox de girar pizza 742 perfurada reforçada cabo deslizante cinza
+- ATUALIZADO CI_742FG (3F6CCA59F78A806787FA86B480B881B5)
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Estado final OK: 46 treinamento(s) gerenciado(s).
+
