@@ -1,6 +1,6 @@
 {
-  "coletadoEm": "2026-08-21T10:55:46.273Z",
-  "total": 46,
+  "coletadoEm": "2026-09-09T14:42:19.990Z",
+  "total": 45,
   "produtos": [
     {
       "nome": "Azeiteiro chef Cerutti Inox, aço inoxidável 18/10",
@@ -520,19 +520,6 @@
       "precoCartao": 296,
       "precoPix": 281.2,
       "parcelamento": "até 12x de R$ 25,63",
-      "estoque": "Disponível"
-    },
-    {
-      "nome": "Pá Cerutti Inox TULIP 60° quadrada perfurada cabo cinza",
-      "codigo": "CI_762F",
-      "marca": "Cerutti Inox",
-      "link": "https://loja.fmdobrasil.com.br/pa-cerutti-inox-tulip-60-quadrada-perfurada-cabo-cinza",
-      "categoria": "PÁS DE PIZZA",
-      "sobConsulta": false,
-      "aPartirDe": true,
-      "precoCartao": 579,
-      "precoPix": 550.05,
-      "parcelamento": "até 12x de R$ 50,15",
       "estoque": "Disponível"
     },
     {

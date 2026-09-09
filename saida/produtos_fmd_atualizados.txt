@@ -1,7 +1,7 @@
 PRODUTOS DO E-COMMERCE FM DO BRASIL - PREÇOS ATUALIZADOS
 ==========================================================
 Site: https://loja.fmdobrasil.com.br/
-Data de atualização: 21/08/2026
+Data de atualização: 09/09/2026
 
 ⚠️ IMPORTANTE: Esta listagem contém os PREÇOS ATUALIZADOS coletados diretamente do site.
 Gerada automaticamente pelo monitor de preços da Houzzes.
@@ -335,15 +335,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 25,63
    ESTOQUE: Disponível
 
-41. PRODUTO: Pá Cerutti Inox TULIP 60° quadrada perfurada cabo cinza
-   CÓDIGO: CI_762F
-   MARCA: Cerutti Inox
-   LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-tulip-60-quadrada-perfurada-cabo-cinza
-   PREÇO ATUAL: A partir de R$ 579,00 (ou a partir de R$ 550,05 via Pix)
-   PARCELAMENTO: até 12x de R$ 50,15
-   ESTOQUE: Disponível
-
-42. PRODUTO: Pá Cerutti Inox TULIP quadrada perfurada cabo vermelho
+41. PRODUTO: Pá Cerutti Inox TULIP quadrada perfurada cabo vermelho
    CÓDIGO: CI_752F
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-tulip-quadrada-perfurada-cabo-vermelho
@@ -351,7 +343,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 66,61
    ESTOQUE: Disponível
 
-43. PRODUTO: Pá Cerutti Inox TULIP retangular perfurada cabo vermelho
+42. PRODUTO: Pá Cerutti Inox TULIP retangular perfurada cabo vermelho
    CÓDIGO: CI_754F
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/pa-cerutti-inox-tulip-retangular-perfurada-cabo-vermelho
@@ -359,7 +351,7 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 133,13
    ESTOQUE: Disponível
 
-44. PRODUTO: Pá Perfurada de Giro Witt em Aluminio para Pizza
+43. PRODUTO: Pá Perfurada de Giro Witt em Aluminio para Pizza
    CÓDIGO: WITT_4865x
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/pa-perfurada-de-giro-witt-em-aluminio-para-pizza-2025-07-22-17-40-08
@@ -367,14 +359,14 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 33,19
    ESTOQUE: Disponível
 
-45. PRODUTO: Telha retangular de chapa metálica azul 40X30X3cm
+44. PRODUTO: Telha retangular de chapa metálica azul 40X30X3cm
    CÓDIGO: CI_76060xxxxx-B5T7K6UX4
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/b5t7k6ux4-telha-retangular-de-chapa-metalica-azul-com-paredes-retas-30x40x3-cm
    PREÇO: SOB CONSULTA (falar com o comercial)
    ESTOQUE: Indisponível
 
-46. PRODUTO: Telha retangular de chapa metálica azul com paredes retas 60x20/40x2 cm
+45. PRODUTO: Telha retangular de chapa metálica azul com paredes retas 60x20/40x2 cm
    CÓDIGO: CI_76060xxxxx
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/telha-retangular-de-chapa-metalica-azul-com-paredes-retas-60x2040x2-cm
