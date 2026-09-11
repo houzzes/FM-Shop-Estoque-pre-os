@@ -1,5 +1,4 @@
-# Mudanças detectadas — 09/09/2026, 11:42:20
+# Mudanças detectadas — 11/09/2026, 11:31:26
 
-- ❌ Produto REMOVIDO do site: Pá Cerutti Inox TULIP 60° quadrada perfurada cabo cinza
+- ⬆️ Caixa em PE de Fermentação Massa Pizza Empilhavel GENUS DEI: R$ 103,00 → R$ 107,00 (+3.9%)
 
-⚠️ 1 produto(s) com falha de extração nesta coleta.

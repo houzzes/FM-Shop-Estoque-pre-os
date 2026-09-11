@@ -1,7 +1,7 @@
 PRODUTOS DO E-COMMERCE FM DO BRASIL - PREÇOS ATUALIZADOS
 ==========================================================
 Site: https://loja.fmdobrasil.com.br/
-Data de atualização: 09/09/2026
+Data de atualização: 11/09/2026
 
 ⚠️ IMPORTANTE: Esta listagem contém os PREÇOS ATUALIZADOS coletados diretamente do site.
 Gerada automaticamente pelo monitor de preços da Houzzes.
@@ -204,8 +204,10 @@ CATEGORIA: CAIXA DE FERMENTAÇÃO
    CÓDIGO: GDEI-VASxxx
    MARCA: GENUS DEI
    LINK: https://loja.fmdobrasil.com.br/bandeja-em-pe-de-fermentacao-massa-pizza-empilhavel-genus-dei
-   PREÇO ATUAL: A partir de R$ 103,00 (ou a partir de R$ 97,85 via Pix)
-   PARCELAMENTO: até 12x de R$ 8,92
+   PREÇO ATUAL: A partir de R$ 107,00 (ou a partir de R$ 101,65 via Pix)
+   PREÇO ANTERIOR: R$ 103,00 (ou R$ 97,85 via Pix)
+   VARIAÇÃO: +4,00 (+3.9%) ⬆️
+   PARCELAMENTO: até 12x de R$ 9,26
    ESTOQUE: Disponível
 
 26. PRODUTO: Carro de Transporte de Caixas para Massas de Pizza GENUS DEI

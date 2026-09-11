@@ -1,5 +1,5 @@
 {
-  "coletadoEm": "2026-09-09T14:42:19.990Z",
+  "coletadoEm": "2026-09-11T14:31:26.664Z",
   "total": 45,
   "produtos": [
     {
@@ -322,9 +322,9 @@
       "categoria": "CAIXA DE FERMENTAÇÃO",
       "sobConsulta": false,
       "aPartirDe": true,
-      "precoCartao": 103,
-      "precoPix": 97.85,
-      "parcelamento": "até 12x de R$ 8,92",
+      "precoCartao": 107,
+      "precoPix": 101.65,
+      "parcelamento": "até 12x de R$ 9,26",
       "estoque": "Disponível"
     },
     {
