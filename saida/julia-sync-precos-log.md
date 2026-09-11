@@ -229,3 +229,15 @@
 - Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
 - Estado final OK: 45 treinamento(s) gerenciado(s).
 
+## 11/09/2026, 11:31:31 — MODE=full — SUCESSO
+
+- Agente 3E22C85CD272807E9D886A87BAFD9D52: name="Julia"
+- Coleta: 45 produtos.
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Treinamentos de texto na Julia: 80 (gerenciados: 45, intocáveis: 35).
+- Plano: criar 0, atualizar 1, excluir 0, sem mudança 44, duplicados a limpar 0.
+-   ~ ATUALIZAR GDEI-VASxxx — Caixa em PE de Fermentação Massa Pizza Empilhavel GENUS DEI
+- ATUALIZADO GDEI-VASxxx (3F6CCA49ED8DB0E62AF94A03E67166A5)
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Estado final OK: 45 treinamento(s) gerenciado(s).
+
