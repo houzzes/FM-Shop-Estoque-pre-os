@@ -1,5 +1,5 @@
 {
-  "coletadoEm": "2026-09-11T14:31:26.664Z",
+  "coletadoEm": "2026-09-22T15:04:43.142Z",
   "total": 45,
   "produtos": [
     {
@@ -23,10 +23,10 @@
       "categoria": "ACESSÓRIOS",
       "sobConsulta": false,
       "aPartirDe": false,
-      "precoCartao": null,
-      "precoPix": null,
-      "parcelamento": null,
-      "estoque": "Indisponível"
+      "precoCartao": 290,
+      "precoPix": 275.5,
+      "parcelamento": "até 12x de R$ 25,11",
+      "estoque": "Disponível"
     },
     {
       "nome": "Capa de proteção para forno de pizza Witt Piccolo Rotante",
@@ -140,9 +140,9 @@
       "categoria": "ACESSÓRIOS",
       "sobConsulta": false,
       "aPartirDe": false,
-      "precoCartao": 115,
-      "precoPix": 109.25,
-      "parcelamento": "até 12x de R$ 9,96",
+      "precoCartao": 147.2,
+      "precoPix": 139.84,
+      "parcelamento": "até 12x de R$ 12,75",
       "estoque": "Disponível"
     },
     {
@@ -166,10 +166,10 @@
       "categoria": "ACESSÓRIOS",
       "sobConsulta": false,
       "aPartirDe": false,
-      "precoCartao": null,
-      "precoPix": null,
-      "parcelamento": null,
-      "estoque": "Indisponível"
+      "precoCartao": 240,
+      "precoPix": 228,
+      "parcelamento": "até 12x de R$ 20,78",
+      "estoque": "Disponível"
     },
     {
       "nome": "nomadiQ Bolsa de Proteção",
@@ -270,10 +270,10 @@
       "categoria": "ACESSÓRIOS",
       "sobConsulta": false,
       "aPartirDe": false,
-      "precoCartao": null,
-      "precoPix": null,
-      "parcelamento": null,
-      "estoque": "Indisponível"
+      "precoCartao": 277,
+      "precoPix": 263.15,
+      "parcelamento": "até 12x de R$ 23,99",
+      "estoque": "Disponível"
     },
     {
       "nome": "Amassadeira Profissional a espiral IPBake ISP15 Micromix de 12 kg - 220v",

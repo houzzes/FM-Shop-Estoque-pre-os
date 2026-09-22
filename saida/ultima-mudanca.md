@@ -1,4 +1,7 @@
-# Mudanças detectadas — 11/09/2026, 11:31:26
+# Mudanças detectadas — 22/09/2026, 12:04:43
 
-- ⬆️ Caixa em PE de Fermentação Massa Pizza Empilhavel GENUS DEI: R$ 103,00 → R$ 107,00 (+3.9%)
+- 📦 Cabo em inox Cerutti Inox para fôrmas e telha - Pinça: estoque Indisponível → Disponível
+- ⬆️ Espátula raspadora de massa de pizza Witt: R$ 115,00 → R$ 147,20 (+28.0%)
+- 📦 Gancho em inox Cerutti Inox para fura-pizza e pega fôrmas/telha/assadeiras: estoque Indisponível → Disponível
+- 📦 Tesoura Cerutti Inox para cortar pizza: estoque Indisponível → Disponível
 

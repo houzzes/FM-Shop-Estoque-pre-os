@@ -1,7 +1,7 @@
 PRODUTOS DO E-COMMERCE FM DO BRASIL - PREÇOS ATUALIZADOS
 ==========================================================
 Site: https://loja.fmdobrasil.com.br/
-Data de atualização: 11/09/2026
+Data de atualização: 22/09/2026
 
 ⚠️ IMPORTANTE: Esta listagem contém os PREÇOS ATUALIZADOS coletados diretamente do site.
 Gerada automaticamente pelo monitor de preços da Houzzes.
@@ -23,8 +23,9 @@ CATEGORIA: ACESSÓRIOS
    CÓDIGO: CI_2778
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/cabo-em-inox-cerutti-inox-para-formas-e-telha-pinca
-   PREÇO: SOB CONSULTA (falar com o comercial)
-   ESTOQUE: Indisponível
+   PREÇO ATUAL: R$ 290,00 (ou R$ 275,50 via Pix)
+   PARCELAMENTO: até 12x de R$ 25,11
+   ESTOQUE: Disponível
 
 3. PRODUTO: Capa de proteção para forno de pizza Witt Piccolo Rotante
    CÓDIGO: WITT_48651052
@@ -90,8 +91,10 @@ CATEGORIA: ACESSÓRIOS
    CÓDIGO: WITT_48651004
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/espatula-raspadora-de-massa-de-pizza-witt
-   PREÇO ATUAL: R$ 115,00 (ou R$ 109,25 via Pix)
-   PARCELAMENTO: até 12x de R$ 9,96
+   PREÇO ATUAL: R$ 147,20 (ou R$ 139,84 via Pix)
+   PREÇO ANTERIOR: R$ 115,00 (ou R$ 109,25 via Pix)
+   VARIAÇÃO: +32,20 (+28.0%) ⬆️
+   PARCELAMENTO: até 12x de R$ 12,75
    ESTOQUE: Disponível
 
 12. PRODUTO: Expositor de pás de pizza
@@ -105,8 +108,9 @@ CATEGORIA: ACESSÓRIOS
 13. PRODUTO: Gancho em inox Cerutti Inox para fura-pizza e pega fôrmas/telha/assadeiras
    CÓDIGO: CI_2777
    LINK: https://loja.fmdobrasil.com.br/gancho-em-inox-cerutti-inox-para-fura-pizza-e-pega-formastelhaassadeiras
-   PREÇO: SOB CONSULTA (falar com o comercial)
-   ESTOQUE: Indisponível
+   PREÇO ATUAL: R$ 240,00 (ou R$ 228,00 via Pix)
+   PARCELAMENTO: até 12x de R$ 20,78
+   ESTOQUE: Disponível
 
 14. PRODUTO: nomadiQ Bolsa de Proteção
    CÓDIGO: NQ_PPBBQBLK01
@@ -167,8 +171,9 @@ CATEGORIA: ACESSÓRIOS
    CÓDIGO: CI_2775
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/tesoura-cerutti-inox-para-cortar-pizza
-   PREÇO: SOB CONSULTA (falar com o comercial)
-   ESTOQUE: Indisponível
+   PREÇO ATUAL: R$ 277,00 (ou R$ 263,15 via Pix)
+   PARCELAMENTO: até 12x de R$ 23,99
+   ESTOQUE: Disponível
 
 CATEGORIA: AMASSADEIRA
 ======================
@@ -205,8 +210,6 @@ CATEGORIA: CAIXA DE FERMENTAÇÃO
    MARCA: GENUS DEI
    LINK: https://loja.fmdobrasil.com.br/bandeja-em-pe-de-fermentacao-massa-pizza-empilhavel-genus-dei
    PREÇO ATUAL: A partir de R$ 107,00 (ou a partir de R$ 101,65 via Pix)
-   PREÇO ANTERIOR: R$ 103,00 (ou R$ 97,85 via Pix)
-   VARIAÇÃO: +4,00 (+3.9%) ⬆️
    PARCELAMENTO: até 12x de R$ 9,26
    ESTOQUE: Disponível
 
