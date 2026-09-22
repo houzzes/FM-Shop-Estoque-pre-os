@@ -241,3 +241,21 @@
 - Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
 - Estado final OK: 45 treinamento(s) gerenciado(s).
 
+## 22/09/2026, 12:04:50 — MODE=full — SUCESSO
+
+- Agente 3E22C85CD272807E9D886A87BAFD9D52: name="Julia"
+- Coleta: 45 produtos.
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Treinamentos de texto na Julia: 80 (gerenciados: 45, intocáveis: 35).
+- Plano: criar 0, atualizar 4, excluir 0, sem mudança 41, duplicados a limpar 0.
+-   ~ ATUALIZAR CI_2778 — Cabo em inox Cerutti Inox para fôrmas e telha - Pinça
+-   ~ ATUALIZAR WITT_48651004 — Espátula raspadora de massa de pizza Witt
+-   ~ ATUALIZAR CI_2777 — Gancho em inox Cerutti Inox para fura-pizza e pega fôrmas/telha/assadeiras
+-   ~ ATUALIZAR CI_2775 — Tesoura Cerutti Inox para cortar pizza
+- ATUALIZADO CI_2778 (3F6CCA2ED0C9C03339DDF24DCFA12D74)
+- ATUALIZADO WITT_48651004 (3F6CCA3AB7D0D086AE106E2D69EC7D72)
+- ATUALIZADO CI_2777 (3F6CCA3C1C69E05366BC86B480B881B5)
+- ATUALIZADO CI_2775 (3F6CCA44A83800F90444F24DCFA12D74)
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Estado final OK: 45 treinamento(s) gerenciado(s).
+
