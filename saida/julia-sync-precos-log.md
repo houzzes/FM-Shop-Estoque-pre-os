@@ -259,3 +259,19 @@
 - Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
 - Estado final OK: 45 treinamento(s) gerenciado(s).
 
+## 23/09/2026, 12:08:13 — MODE=full — SUCESSO
+
+- Agente 3E22C85CD272807E9D886A87BAFD9D52: name="Julia"
+- Coleta: 46 produtos.
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Treinamentos de texto na Julia: 80 (gerenciados: 45, intocáveis: 35).
+- Plano: criar 1, atualizar 2, excluir 0, sem mudança 43, duplicados a limpar 0.
+-   + CRIAR  CI_760403003 — Telha retangular azul com laterais alargadas. 40x30x3 cm
+-   ~ ATUALIZAR CI_AL-RA2764-22 — Escova Cerutti Inox retangular de 22,5 cm de cerdas de latão com cabo de alum. anodizado vermelho de 150 cm e raspador
+-   ~ ATUALIZAR CI_76060xxxxx-B5T7K6UX4 — Telha retangular de chapa metálica azul 40X30X3cm
+- CRIADO CI_760403003
+- ATUALIZADO CI_AL-RA2764-22 (3F6CCA34BB3910D22C433E80B06F59D3)
+- ATUALIZADO CI_76060xxxxx-B5T7K6UX4 (3F6CCA67DB4BF04EBC2C1232A9820A12)
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Estado final OK: 46 treinamento(s) gerenciado(s).
+
