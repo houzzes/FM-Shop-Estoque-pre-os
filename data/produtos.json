@@ -1,6 +1,6 @@
 {
-  "coletadoEm": "2026-09-22T15:04:43.142Z",
-  "total": 45,
+  "coletadoEm": "2026-09-23T15:08:02.779Z",
+  "total": 46,
   "produtos": [
     {
       "nome": "Azeiteiro chef Cerutti Inox, aço inoxidável 18/10",
@@ -101,10 +101,10 @@
       "categoria": "ACESSÓRIOS",
       "sobConsulta": false,
       "aPartirDe": false,
-      "precoCartao": null,
-      "precoPix": null,
-      "parcelamento": null,
-      "estoque": "Indisponível"
+      "precoCartao": 703,
+      "precoPix": 667.85,
+      "parcelamento": "até 12x de R$ 60,89",
+      "estoque": "Disponível"
     },
     {
       "nome": "Espátula Cerutti Inox de aço inoxidável com cabo de plástico vermelho",
@@ -562,6 +562,19 @@
       "estoque": "Disponível"
     },
     {
+      "nome": "Telha retangular azul com laterais alargadas. 40x30x3 cm",
+      "codigo": "CI_760403003",
+      "marca": "Cerutti Inox",
+      "link": "https://loja.fmdobrasil.com.br/telha-retangular-azul-com-laterais-alargadas-40x30x3-cm",
+      "categoria": "PÁS DE PIZZA",
+      "sobConsulta": false,
+      "aPartirDe": false,
+      "precoCartao": 180,
+      "precoPix": 171,
+      "parcelamento": "até 12x de R$ 15,59",
+      "estoque": "Disponível"
+    },
+    {
       "nome": "Telha retangular de chapa metálica azul 40X30X3cm",
       "codigo": "CI_76060xxxxx-B5T7K6UX4",
       "marca": "Cerutti Inox",
@@ -569,10 +582,10 @@
       "categoria": "PÁS DE PIZZA",
       "sobConsulta": false,
       "aPartirDe": false,
-      "precoCartao": null,
-      "precoPix": null,
-      "parcelamento": null,
-      "estoque": "Indisponível"
+      "precoCartao": 220,
+      "precoPix": 209,
+      "parcelamento": "até 12x de R$ 19,05",
+      "estoque": "Disponível"
     },
     {
       "nome": "Telha retangular de chapa metálica azul com paredes retas 60x20/40x2 cm",

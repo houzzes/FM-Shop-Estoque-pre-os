@@ -1,7 +1,6 @@
-# Mudanças detectadas — 22/09/2026, 12:04:43
+# Mudanças detectadas — 23/09/2026, 12:08:04
 
-- 📦 Cabo em inox Cerutti Inox para fôrmas e telha - Pinça: estoque Indisponível → Disponível
-- ⬆️ Espátula raspadora de massa de pizza Witt: R$ 115,00 → R$ 147,20 (+28.0%)
-- 📦 Gancho em inox Cerutti Inox para fura-pizza e pega fôrmas/telha/assadeiras: estoque Indisponível → Disponível
-- 📦 Tesoura Cerutti Inox para cortar pizza: estoque Indisponível → Disponível
+- 📦 Escova Cerutti Inox retangular de 22,5 cm de cerdas de latão com cabo de alum. anodizado vermelho de 150 cm e raspador: estoque Indisponível → Disponível
+- 🆕 Produto NOVO: Telha retangular azul com laterais alargadas. 40x30x3 cm — R$ 180,00
+- 📦 Telha retangular de chapa metálica azul 40X30X3cm: estoque Indisponível → Disponível
 

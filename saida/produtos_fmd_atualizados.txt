@@ -1,7 +1,7 @@
 PRODUTOS DO E-COMMERCE FM DO BRASIL - PREÇOS ATUALIZADOS
 ==========================================================
 Site: https://loja.fmdobrasil.com.br/
-Data de atualização: 22/09/2026
+Data de atualização: 23/09/2026
 
 ⚠️ IMPORTANTE: Esta listagem contém os PREÇOS ATUALIZADOS coletados diretamente do site.
 Gerada automaticamente pelo monitor de preços da Houzzes.
@@ -68,8 +68,9 @@ CATEGORIA: ACESSÓRIOS
    CÓDIGO: CI_AL-RA2764-22
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/escova-cerutti-inox-retangular-de-225-cm-de-cerdas-de-latao-com-cabo-de-alum-anodizado-vermelho-de-150-cm-e-raspador
-   PREÇO: SOB CONSULTA (falar com o comercial)
-   ESTOQUE: Indisponível
+   PREÇO ATUAL: R$ 703,00 (ou R$ 667,85 via Pix)
+   PARCELAMENTO: até 12x de R$ 60,89
+   ESTOQUE: Disponível
 
 9. PRODUTO: Espátula Cerutti Inox de aço inoxidável com cabo de plástico vermelho
    CÓDIGO: CI_2771
@@ -92,8 +93,6 @@ CATEGORIA: ACESSÓRIOS
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/espatula-raspadora-de-massa-de-pizza-witt
    PREÇO ATUAL: R$ 147,20 (ou R$ 139,84 via Pix)
-   PREÇO ANTERIOR: R$ 115,00 (ou R$ 109,25 via Pix)
-   VARIAÇÃO: +32,20 (+28.0%) ⬆️
    PARCELAMENTO: até 12x de R$ 12,75
    ESTOQUE: Disponível
 
@@ -364,14 +363,23 @@ CATEGORIA: PÁS DE PIZZA
    PARCELAMENTO: até 12x de R$ 33,19
    ESTOQUE: Disponível
 
-44. PRODUTO: Telha retangular de chapa metálica azul 40X30X3cm
+44. PRODUTO: Telha retangular azul com laterais alargadas. 40x30x3 cm
+   CÓDIGO: CI_760403003
+   MARCA: Cerutti Inox
+   LINK: https://loja.fmdobrasil.com.br/telha-retangular-azul-com-laterais-alargadas-40x30x3-cm
+   PREÇO ATUAL: R$ 180,00 (ou R$ 171,00 via Pix)
+   PARCELAMENTO: até 12x de R$ 15,59
+   ESTOQUE: Disponível
+
+45. PRODUTO: Telha retangular de chapa metálica azul 40X30X3cm
    CÓDIGO: CI_76060xxxxx-B5T7K6UX4
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/b5t7k6ux4-telha-retangular-de-chapa-metalica-azul-com-paredes-retas-30x40x3-cm
-   PREÇO: SOB CONSULTA (falar com o comercial)
-   ESTOQUE: Indisponível
+   PREÇO ATUAL: R$ 220,00 (ou R$ 209,00 via Pix)
+   PARCELAMENTO: até 12x de R$ 19,05
+   ESTOQUE: Disponível
 
-45. PRODUTO: Telha retangular de chapa metálica azul com paredes retas 60x20/40x2 cm
+46. PRODUTO: Telha retangular de chapa metálica azul com paredes retas 60x20/40x2 cm
    CÓDIGO: CI_76060xxxxx
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/telha-retangular-de-chapa-metalica-azul-com-paredes-retas-60x2040x2-cm
