@@ -1,7 +1,7 @@
 PRODUTOS DO E-COMMERCE FM DO BRASIL - PREÇOS ATUALIZADOS
 ==========================================================
 Site: https://loja.fmdobrasil.com.br/
-Data de atualização: 23/09/2026
+Data de atualização: 05/10/2026
 
 ⚠️ IMPORTANTE: Esta listagem contém os PREÇOS ATUALIZADOS coletados diretamente do site.
 Gerada automaticamente pelo monitor de preços da Houzzes.
@@ -54,8 +54,9 @@ CATEGORIA: ACESSÓRIOS
    CÓDIGO: CI_AL-SC2790-18D
    MARCA: Cerutti Inox
    LINK: https://loja.fmdobrasil.com.br/escova-cerutti-inox-baixa-retangular-para-forno-eletrico-h5-l16-com-cabo-de-aluminio-anodizado-60-cm
-   PREÇO: SOB CONSULTA (falar com o comercial)
-   ESTOQUE: Indisponível
+   PREÇO ATUAL: R$ 571,00 (ou R$ 542,45 via Pix)
+   PARCELAMENTO: até 12x de R$ 49,45
+   ESTOQUE: Disponível
 
 7. PRODUTO: Escova Cerutti Inox retangular com cerdas de latão de 18 cm e cabo de aço inoxidável de 60 cm
    CÓDIGO: CI_2764-18D

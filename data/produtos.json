@@ -1,5 +1,5 @@
 {
-  "coletadoEm": "2026-09-23T15:08:02.779Z",
+  "coletadoEm": "2026-10-05T19:20:53.171Z",
   "total": 46,
   "produtos": [
     {
@@ -75,10 +75,10 @@
       "categoria": "ACESSÓRIOS",
       "sobConsulta": false,
       "aPartirDe": false,
-      "precoCartao": null,
-      "precoPix": null,
-      "parcelamento": null,
-      "estoque": "Indisponível"
+      "precoCartao": 571,
+      "precoPix": 542.45,
+      "parcelamento": "até 12x de R$ 49,45",
+      "estoque": "Disponível"
     },
     {
       "nome": "Escova Cerutti Inox retangular com cerdas de latão de 18 cm e cabo de aço inoxidável de 60 cm",

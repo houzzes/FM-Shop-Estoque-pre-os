@@ -1,6 +1,4 @@
-# Mudanças detectadas — 23/09/2026, 12:08:04
+# Mudanças detectadas — 05/10/2026, 16:20:53
 
-- 📦 Escova Cerutti Inox retangular de 22,5 cm de cerdas de latão com cabo de alum. anodizado vermelho de 150 cm e raspador: estoque Indisponível → Disponível
-- 🆕 Produto NOVO: Telha retangular azul com laterais alargadas. 40x30x3 cm — R$ 180,00
-- 📦 Telha retangular de chapa metálica azul 40X30X3cm: estoque Indisponível → Disponível
+- 📦 Escova Cerutti Inox baixa retangular para fornos compactos H5, L16 com cabo de alumínio anodizado 60 cm: estoque Indisponível → Disponível
 
