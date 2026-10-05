@@ -275,3 +275,15 @@
 - Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
 - Estado final OK: 46 treinamento(s) gerenciado(s).
 
+## 05/10/2026, 16:20:59 — MODE=full — SUCESSO
+
+- Agente 3E22C85CD272807E9D886A87BAFD9D52: name="Julia"
+- Coleta: 46 produtos.
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Treinamentos de texto na Julia: 81 (gerenciados: 46, intocáveis: 35).
+- Plano: criar 0, atualizar 1, excluir 0, sem mudança 45, duplicados a limpar 0.
+-   ~ ATUALIZAR CI_AL-SC2790-18D — Escova Cerutti Inox baixa retangular para fornos compactos H5, L16 com cabo de alumínio anodizado 60 cm
+- ATUALIZADO CI_AL-SC2790-18D (3F6CCA31E9F0A05BDF12DAE3A0090D82)
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Estado final OK: 46 treinamento(s) gerenciado(s).
+
