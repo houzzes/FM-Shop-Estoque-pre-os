@@ -1,7 +1,7 @@
 PRODUTOS DO E-COMMERCE FM DO BRASIL - PREÇOS ATUALIZADOS
 ==========================================================
 Site: https://loja.fmdobrasil.com.br/
-Data de atualização: 05/10/2026
+Data de atualização: 21/10/2026
 
 ⚠️ IMPORTANTE: Esta listagem contém os PREÇOS ATUALIZADOS coletados diretamente do site.
 Gerada automaticamente pelo monitor de preços da Houzzes.
@@ -163,9 +163,8 @@ CATEGORIA: ACESSÓRIOS
    CÓDIGO: WITT_48651012
    MARCA: WITT
    LINK: https://loja.fmdobrasil.com.br/termometro-infravermelho-witt-alta-precisao
-   PREÇO ATUAL: R$ 442,00 (ou R$ 419,90 via Pix)
-   PARCELAMENTO: até 12x de R$ 38,28
-   ESTOQUE: Disponível
+   PREÇO: SOB CONSULTA (falar com o comercial)
+   ESTOQUE: Indisponível
 
 21. PRODUTO: Tesoura Cerutti Inox para cortar pizza
    CÓDIGO: CI_2775

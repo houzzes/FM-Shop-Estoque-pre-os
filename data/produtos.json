@@ -1,5 +1,5 @@
 {
-  "coletadoEm": "2026-10-05T19:20:53.171Z",
+  "coletadoEm": "2026-10-21T15:26:52.322Z",
   "total": 46,
   "produtos": [
     {
@@ -257,10 +257,10 @@
       "categoria": "ACESSÓRIOS",
       "sobConsulta": false,
       "aPartirDe": false,
-      "precoCartao": 442,
-      "precoPix": 419.9,
-      "parcelamento": "até 12x de R$ 38,28",
-      "estoque": "Disponível"
+      "precoCartao": null,
+      "precoPix": null,
+      "parcelamento": null,
+      "estoque": "Indisponível"
     },
     {
       "nome": "Tesoura Cerutti Inox para cortar pizza",
