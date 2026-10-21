@@ -287,3 +287,15 @@
 - Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
 - Estado final OK: 46 treinamento(s) gerenciado(s).
 
+## 21/10/2026, 12:27:11 — MODE=full — SUCESSO
+
+- Agente 3E22C85CD272807E9D886A87BAFD9D52: name="Julia"
+- Coleta: 46 produtos.
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Treinamentos de texto na Julia: 81 (gerenciados: 46, intocáveis: 35).
+- Plano: criar 0, atualizar 1, excluir 0, sem mudança 45, duplicados a limpar 0.
+-   ~ ATUALIZAR WITT_48651012 — Termometro Infravermelho Witt Alta Precisão
+- ATUALIZADO WITT_48651012 (3F6CCA432BD1300307A612D0BF19A6ED)
+- Campos do 1º treinamento retornado: id, text, image, audio, video, website, trainingSubPages, trainingInterval, documentUrl, documentName, documentMimetype, type, callbackUrl
+- Estado final OK: 46 treinamento(s) gerenciado(s).
+
